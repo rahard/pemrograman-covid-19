@@ -1,0 +1,1916 @@
+Date,Province,Confirmed,Recovered,Deaths,Active
+2020-05-15,Aceh,17,13,1,3
+2020-05-15,Bali,343,232,4,107
+2020-05-15,Bangka Belitung Islands,29,7,1,21
+2020-05-15,Banten,622,158,60,404
+2020-05-15,Bengkulu,53,1,2,50
+2020-05-15,Central Java,1109,234,70,805
+2020-05-15,Central Kalimantan,227,87,11,129
+2020-05-15,Central Sulawesi,112,21,4,87
+2020-05-15,East Java,1921,294,178,1449
+2020-05-15,East Kalimantan,251,61,3,187
+2020-05-15,East Nusa Tenggara,19,1,1,17
+2020-05-15,Gorontalo,22,14,1,7
+2020-05-15,Jakarta,5774,1276,460,4038
+2020-05-15,Jambi,69,3,0,66
+2020-05-15,Lampung,66,22,5,39
+2020-05-15,Maluku,62,17,4,41
+2020-05-15,North Kalimantan,141,23,1,117
+2020-05-15,North Maluku,85,12,3,70
+2020-05-15,North Sulawesi,105,30,5,70
+2020-05-15,North Sumatra,202,53,24,125
+2020-05-15,Papua,335,48,6,281
+2020-05-15,Riau,95,53,6,36
+2020-05-15,Riau Islands,115,77,11,27
+2020-05-15,South Kalimantan,363,24,9,330
+2020-05-15,South Sulawesi,871,293,51,527
+2020-05-15,South Sumatra,458,73,9,376
+2020-05-15,Southeast Sulawesi,183,24,5,154
+2020-05-15,Yogyakarta,188,71,7,110
+2020-05-15,West Java,1596,259,100,1237
+2020-05-15,West Kalimantan,129,22,3,104
+2020-05-15,West Nusa Tenggara,358,188,7,163
+2020-05-15,West Papua,88,2,1,85
+2020-05-15,West Sulawesi,74,22,2,50
+2020-05-15,West Sumatra,393,88,21,284
+2020-05-15,Under investigation,21,0,0,21
+2020-05-14,Aceh,17,13,1,3
+2020-05-14,Bali,337,223,4,110
+2020-05-14,Bangka Belitung Islands,29,7,1,21
+2020-05-14,Banten,593,158,57,378
+2020-05-14,Bengkulu,42,1,2,39
+2020-05-14,Central Java,1066,229,66,771
+2020-05-14,Central Kalimantan,223,40,7,176
+2020-05-14,Central Sulawesi,111,21,4,86
+2020-05-14,East Java,1863,278,167,1418
+2020-05-14,East Kalimantan,238,57,3,178
+2020-05-14,East Nusa Tenggara,19,1,1,17
+2020-05-14,Gorontalo,21,13,1,7
+2020-05-14,Jakarta,5668,1162,452,4074
+2020-05-14,Jambi,66,3,0,63
+2020-05-14,Lampung,66,22,5,39
+2020-05-14,Maluku,62,17,4,41
+2020-05-14,North Kalimantan,138,20,1,117
+2020-05-14,North Maluku,81,11,3,67
+2020-05-14,North Sulawesi,83,30,5,48
+2020-05-14,North Sumatra,202,53,24,125
+2020-05-14,Papua,332,48,6,278
+2020-05-14,Riau,94,49,6,39
+2020-05-14,Riau Islands,111,77,11,23
+2020-05-14,South Kalimantan,294,24,9,261
+2020-05-14,South Sulawesi,840,293,51,496
+2020-05-14,South Sumatra,441,73,9,359
+2020-05-14,Southeast Sulawesi,167,17,3,147
+2020-05-14,Yogyakarta,185,68,7,110
+2020-05-14,West Java,1565,242,99,1224
+2020-05-14,West Kalimantan,129,22,3,104
+2020-05-14,West Nusa Tenggara,350,138,7,205
+2020-05-14,West Papua,88,2,1,85
+2020-05-14,West Sulawesi,74,20,2,52
+2020-05-14,West Sumatra,371,86,21,264
+2020-05-14,Under investigation,21,0,0,21
+2020-05-13,Aceh,17,12,1,4
+2020-05-13,Bali,332,220,4,108
+2020-05-13,Bangka Belitung Islands,29,7,1,21
+2020-05-13,Banten,580,157,57,366
+2020-05-13,Bengkulu,40,1,1,38
+2020-05-13,Central Java,1023,229,66,728
+2020-05-13,Central Kalimantan,220,30,7,183
+2020-05-13,Central Sulawesi,95,13,3,79
+2020-05-13,East Java,1772,274,163,1335
+2020-05-13,East Kalimantan,230,46,3,184
+2020-05-13,East Nusa Tenggara,16,1,0,15
+2020-05-13,Gorontalo,19,12,1,6
+2020-05-13,Jakarta,5554,1026,449,4079
+2020-05-13,Jambi,65,3,0,62
+2020-05-13,Lampung,66,22,5,39
+2020-05-13,Maluku,50,17,4,29
+2020-05-13,North Kalimantan,138,14,1,123
+2020-05-13,North Maluku,54,8,0,46
+2020-05-13,North Sulawesi,74,26,5,43
+2020-05-13,North Sumatra,198,48,24,126
+2020-05-13,Papua,322,48,6,268
+2020-05-13,Riau,81,49,6,26
+2020-05-13,Riau Islands,111,77,11,23
+2020-05-13,South Kalimantan,291,24,9,258
+2020-05-13,South Sulawesi,747,283,49,415
+2020-05-13,South Sumatra,322,73,9,240
+2020-05-13,Southeast Sulawesi,76,16,2,58
+2020-05-13,Yogyakarta,181,68,7,106
+2020-05-13,West Java,1556,237,98,1234
+2020-05-13,West Kalimantan,129,22,3,104
+2020-05-13,West Nusa Tenggara,344,114,7,223
+2020-05-13,West Papua,70,2,1,67
+2020-05-13,West Sulawesi,68,7,2,59
+2020-05-13,West Sumatra,339,83,19,237
+2020-05-13,Under investigation,21,0,0,21
+2020-05-12,Aceh,17,12,1,4
+2020-05-12,Bali,328,215,4,109
+2020-05-12,Bangka Belitung Islands,29,7,1,21
+2020-05-12,Banten,559,153,56,350
+2020-05-12,Bengkulu,40,1,1,38
+2020-05-12,Central Java,989,229,66,694
+2020-05-12,Central Kalimantan,204,30,7,167
+2020-05-12,Central Sulawesi,95,13,3,79
+2020-05-12,East Java,1669,258,155,1256
+2020-05-12,East Kalimantan,228,41,3,184
+2020-05-12,East Nusa Tenggara,16,1,0,15
+2020-05-12,Gorontalo,19,12,1,6
+2020-05-12,Jakarta,5375,924,443,4008
+2020-05-12,Jambi,65,3,0,62
+2020-05-12,Lampung,66,22,5,39
+2020-05-12,Maluku,50,17,4,29
+2020-05-12,North Kalimantan,132,7,1,124
+2020-05-12,North Maluku,54,8,0,46
+2020-05-12,North Sulawesi,74,26,5,43
+2020-05-12,North Sumatra,198,48,24,126
+2020-05-12,Papua,322,48,6,268
+2020-05-12,Riau,81,49,6,26
+2020-05-12,Riau Islands,106,72,11,23
+2020-05-12,South Kalimantan,277,24,9,244
+2020-05-12,South Sulawesi,747,283,49,415
+2020-05-12,South Sumatra,279,64,9,206
+2020-05-12,Southeast Sulawesi,76,16,2,58
+2020-05-12,Yogyakarta,169,63,7,99
+2020-05-12,West Java,1545,213,98,1234
+2020-05-12,West Kalimantan,123,20,3,100
+2020-05-12,West Nusa Tenggara,339,105,6,228
+2020-05-12,West Papua,70,2,1,67
+2020-05-12,West Sulawesi,68,7,2,59
+2020-05-12,West Sumatra,319,70,18,231
+2020-05-12,Under investigation,21,0,0,21
+2020-05-11,Aceh,17,11,1,5
+2020-05-11,Bali,314,210,4,100
+2020-05-11,Bangka Belitung Islands,29,7,1,21
+2020-05-11,Banten,541,146,56,339
+2020-05-11,Bengkulu,37,1,1,35
+2020-05-11,Central Java,980,229,66,685
+2020-05-11,Central Kalimantan,193,30,7,156
+2020-05-11,Central Sulawesi,83,12,3,68
+2020-05-11,East Java,1536,244,149,1143
+2020-05-11,East Kalimantan,218,34,2,182
+2020-05-11,East Nusa Tenggara,12,1,0,11
+2020-05-11,Gorontalo,19,11,1,7
+2020-05-11,Jakarta,5276,812,441,4023
+2020-05-11,Jambi,65,3,0,62
+2020-05-11,Lampung,66,21,5,40
+2020-05-11,Maluku,32,12,2,18
+2020-05-11,North Kalimantan,131,7,1,124
+2020-05-11,North Maluku,54,8,0,46
+2020-05-11,North Sulawesi,71,17,4,50
+2020-05-11,North Sumatra,179,48,21,110
+2020-05-11,Papua,308,48,6,254
+2020-05-11,Riau,73,39,6,28
+2020-05-11,Riau Islands,101,68,11,22
+2020-05-11,South Kalimantan,263,24,9,230
+2020-05-11,South Sulawesi,722,265,47,410
+2020-05-11,South Sumatra,278,55,9,214
+2020-05-11,Southeast Sulawesi,76,16,2,58
+2020-05-11,Yogyakarta,159,61,7,91
+2020-05-11,West Java,1493,213,95,1185
+2020-05-11,West Kalimantan,120,12,3,105
+2020-05-11,West Nusa Tenggara,330,92,6,232
+2020-05-11,West Papua,70,2,1,67
+2020-05-11,West Sulawesi,62,5,2,55
+2020-05-11,West Sumatra,299,56,17,226
+2020-05-11,Under investigation,21,0,0,21
+2020-05-10,Aceh,17,11,1,5
+2020-05-10,Bali,311,204,4,103
+2020-05-10,Bangka Belitung Islands,29,6,1,22
+2020-05-10,Banten,533,122,56,355
+2020-05-10,Bengkulu,37,1,1,35
+2020-05-10,Central Java,978,173,66,739
+2020-05-10,Central Kalimantan,193,30,7,156
+2020-05-10,Central Sulawesi,83,12,3,68
+2020-05-10,East Java,1502,230,143,1129
+2020-05-10,East Kalimantan,218,34,2,182
+2020-05-10,East Nusa Tenggara,12,1,0,11
+2020-05-10,Gorontalo,19,11,1,7
+2020-05-10,Jakarta,5190,803,434,3953
+2020-05-10,Jambi,64,3,0,61
+2020-05-10,Lampung,66,21,5,40
+2020-05-10,Maluku,32,12,2,18
+2020-05-10,North Kalimantan,131,7,1,124
+2020-05-10,North Maluku,54,8,0,46
+2020-05-10,North Sulawesi,71,17,4,50
+2020-05-10,North Sumatra,179,48,21,110
+2020-05-10,Papua,308,48,6,254
+2020-05-10,Riau,73,39,6,28
+2020-05-10,Riau Islands,101,68,11,22
+2020-05-10,South Kalimantan,263,24,9,230
+2020-05-10,South Sulawesi,722,265,47,410
+2020-05-10,South Sumatra,278,55,9,214
+2020-05-10,Southeast Sulawesi,76,16,2,58
+2020-05-10,Yogyakarta,153,60,7,86
+2020-05-10,West Java,1437,202,95,1140
+2020-05-10,West Kalimantan,120,12,3,105
+2020-05-10,West Nusa Tenggara,330,92,6,232
+2020-05-10,West Papua,70,2,1,67
+2020-05-10,West Sulawesi,62,5,2,55
+2020-05-10,West Sumatra,299,56,17,226
+2020-05-10,Under investigation,21,0,0,21
+2020-05-09,Aceh,17,11,1,5
+2020-05-09,Bali,306,197,4,105
+2020-05-09,Bangka Belitung Islands,28,6,1,21
+2020-05-09,Banten,523,122,56,345
+2020-05-09,Bengkulu,37,1,1,35
+2020-05-09,Central Java,959,173,66,720
+2020-05-09,Central Kalimantan,189,30,7,152
+2020-05-09,Central Sulawesi,75,12,3,60
+2020-05-09,East Java,1419,227,141,1051
+2020-05-09,East Kalimantan,214,31,2,181
+2020-05-09,East Nusa Tenggara,12,1,0,11
+2020-05-09,Gorontalo,19,11,1,7
+2020-05-09,Jakarta,5056,752,427,3877
+2020-05-09,Jambi,62,1,0,61
+2020-05-09,Lampung,66,21,5,40
+2020-05-09,Maluku,32,12,2,18
+2020-05-09,North Kalimantan,131,6,1,124
+2020-05-09,North Maluku,54,8,0,46
+2020-05-09,North Sulawesi,53,17,4,32
+2020-05-09,North Sumatra,179,48,21,110
+2020-05-09,Papua,277,48,6,223
+2020-05-09,Riau,71,38,6,27
+2020-05-09,Riau Islands,101,67,10,24
+2020-05-09,South Kalimantan,253,24,9,220
+2020-05-09,South Sulawesi,710,260,46,404
+2020-05-09,South Sumatra,278,49,6,223
+2020-05-09,Southeast Sulawesi,71,15,2,54
+2020-05-09,Yogyakarta,146,59,7,80
+2020-05-09,West Java,1437,202,95,1140
+2020-05-09,West Kalimantan,118,12,3,103
+2020-05-09,West Nusa Tenggara,330,87,6,237
+2020-05-09,West Papua,53,0,1,52
+2020-05-09,West Sulawesi,62,5,2,55
+2020-05-09,West Sumatra,286,54,17,215
+2020-05-09,Under investigation,21,0,0,21
+2020-05-08,Aceh,17,11,1,5
+2020-05-08,Bali,300,195,4,101
+2020-05-08,Bangka Belitung Islands,28,6,1,21
+2020-05-08,Banten,505,122,56,327
+2020-05-08,Bengkulu,14,1,1,12
+2020-05-08,Central Java,933,161,65,707
+2020-05-08,Central Kalimantan,188,29,7,166
+2020-05-08,Central Sulawesi,75,12,3,60
+2020-05-08,East Java,1284,215,138,931
+2020-05-08,East Kalimantan,209,13,2,194
+2020-05-08,East Nusa Tenggara,12,1,0,11
+2020-05-08,Gorontalo,19,8,1,10
+2020-05-08,Jakarta,4955,745,424,3786
+2020-05-08,Jambi,47,1,0,46
+2020-05-08,Lampung,66,18,5,40
+2020-05-08,Maluku,32,12,2,18
+2020-05-08,North Kalimantan,131,6,1,124
+2020-05-08,North Maluku,50,5,0,45
+2020-05-08,North Sulawesi,47,17,4,26
+2020-05-08,North Sumatra,157,48,16,78
+2020-05-08,Papua,265,48,6,211
+2020-05-08,Riau,69,28,6,32
+2020-05-08,Riau Islands,100,67,10,23
+2020-05-08,South Kalimantan,246,24,9,213
+2020-05-08,South Sulawesi,708,251,46,411
+2020-05-08,South Sumatra,227,49,6,172
+2020-05-08,Southeast Sulawesi,70,15,2,52
+2020-05-08,Yogyakarta,143,59,7,73
+2020-05-08,West Java,1404,184,92,1128
+2020-05-08,West Kalimantan,95,12,3,81
+2020-05-08,West Nusa Tenggara,312,80,5,238
+2020-05-08,West Papua,53,0,1,52
+2020-05-08,West Sulawesi,60,5,2,53
+2020-05-08,West Sumatra,270,46,17,207
+2020-05-08,Under investigation,21,0,0,21
+2020-05-07,Aceh,17,7,1,9
+2020-05-07,Bali,287,183,4,100
+2020-05-07,Bangka Belitung Islands,28,4,1,23
+2020-05-07,Banten,495,122,56,317
+2020-05-07,Bengkulu,14,1,1,12
+2020-05-07,Central Java,904,145,64,695
+2020-05-07,Central Kalimantan,188,15,7,166
+2020-05-07,Central Sulawesi,75,12,3,60
+2020-05-07,East Java,1267,206,133,928
+2020-05-07,East Kalimantan,182,13,2,167
+2020-05-07,East Nusa Tenggara,12,1,0,11
+2020-05-07,Gorontalo,19,4,1,14
+2020-05-07,Jakarta,4855,745,423,3687
+2020-05-07,Jambi,47,1,0,46
+2020-05-07,Lampung,63,18,5,40
+2020-05-07,Maluku,23,12,0,11
+2020-05-07,North Kalimantan,131,6,1,124
+2020-05-07,North Maluku,50,5,0,45
+2020-05-07,North Sulawesi,45,17,4,24
+2020-05-07,North Sumatra,142,48,16,78
+2020-05-07,Papua,252,48,6,198
+2020-05-07,Riau,66,28,6,32
+2020-05-07,Riau Islands,98,63,10,25
+2020-05-07,South Kalimantan,238,24,9,205
+2020-05-07,South Sulawesi,684,238,45,401
+2020-05-07,South Sumatra,227,47,6,174
+2020-05-07,Southeast Sulawesi,69,15,2,52
+2020-05-07,Yogyakarta,137,57,7,73
+2020-05-07,West Java,1381,182,90,1109
+2020-05-07,West Kalimantan,95,11,3,81
+2020-05-07,West Nusa Tenggara,300,57,5,238
+2020-05-07,West Papua,53,0,1,52
+2020-05-07,West Sulawesi,58,5,2,51
+2020-05-07,West Sumatra,252,41,16,195
+2020-05-07,Under investigation,22,0,0,22
+2020-05-06,Aceh,17,7,1,9
+2020-05-06,Bali,277,166,4,107
+2020-05-06,Bangka Belitung Islands,28,4,1,23
+2020-05-06,Banten,487,122,41,324
+2020-05-06,Bengkulu,14,1,1,12
+2020-05-06,Central Java,891,145,64,682
+2020-05-06,Central Kalimantan,186,15,7,164
+2020-05-06,Central Sulawesi,70,12,3,55
+2020-05-06,East Java,1221,199,123,899
+2020-05-06,East Kalimantan,182,13,2,167
+2020-05-06,East Nusa Tenggara,12,1,0,11
+2020-05-06,Gorontalo,15,2,1,12
+2020-05-06,Jakarta,4770,741,414,3615
+2020-05-06,Jambi,47,1,0,46
+2020-05-06,Lampung,63,18,5,40
+2020-05-06,Maluku,23,12,0,11
+2020-05-06,North Kalimantan,131,6,1,124
+2020-05-06,North Maluku,50,5,0,45
+2020-05-06,North Sulawesi,45,17,4,24
+2020-05-06,North Sumatra,141,43,16,82
+2020-05-06,Papua,248,48,6,194
+2020-05-06,Riau,61,28,6,27
+2020-05-06,Riau Islands,98,57,10,31
+2020-05-06,South Kalimantan,225,24,9,192
+2020-05-06,South Sulawesi,665,235,45,385
+2020-05-06,South Sumatra,210,47,5,158
+2020-05-06,Southeast Sulawesi,69,15,2,52
+2020-05-06,Yogyakarta,122,53,7,62
+2020-05-06,West Java,1320,177,90,1053
+2020-05-06,West Kalimantan,90,8,3,79
+2020-05-06,West Nusa Tenggara,289,53,5,231
+2020-05-06,West Papua,53,0,1,52
+2020-05-06,West Sulawesi,58,4,2,52
+2020-05-06,West Sumatra,238,38,16,184
+2020-05-06,Under investigation,22,0,0,22
+2020-05-05,Aceh,12,7,1,4
+2020-05-05,Bali,277,160,4,113
+2020-05-05,Bangka Belitung Islands,28,4,1,23
+2020-05-05,Banten,458,117,41,300
+2020-05-05,Bengkulu,12,1,1,10
+2020-05-05,Central Java,849,132,62,655
+2020-05-05,Central Kalimantan,181,15,7,159
+2020-05-05,Central Sulawesi,70,12,3,55
+2020-05-05,East Java,1171,180,117,874
+2020-05-05,East Kalimantan,168,13,2,153
+2020-05-05,East Nusa Tenggara,12,1,0,11
+2020-05-05,Gorontalo,15,2,1,12
+2020-05-05,Jakarta,4687,704,409,3574
+2020-05-05,Jambi,43,1,0,42
+2020-05-05,Lampung,55,17,5,33
+2020-05-05,Maluku,23,12,0,11
+2020-05-05,North Kalimantan,131,6,1,124
+2020-05-05,North Maluku,50,5,0,45
+2020-05-05,North Sulawesi,45,17,4,24
+2020-05-05,North Sumatra,130,41,13,76
+2020-05-05,Papua,247,48,6,193
+2020-05-05,Riau,61,27,6,28
+2020-05-05,Riau Islands,97,46,10,41
+2020-05-05,South Kalimantan,212,24,9,179
+2020-05-05,South Sulawesi,640,228,42,370
+2020-05-05,South Sumatra,199,47,5,147
+2020-05-05,Southeast Sulawesi,69,15,2,52
+2020-05-05,Yogyakarta,121,52,7,62
+2020-05-05,West Java,1300,167,87,1046
+2020-05-05,West Kalimantan,73,8,3,62
+2020-05-05,West Nusa Tenggara,285,46,4,235
+2020-05-05,West Papua,49,0,1,48
+2020-05-05,West Sulawesi,58,4,2,52
+2020-05-05,West Sumatra,221,38,16,167
+2020-05-05,Under investigation,22,0,0,22
+2020-05-04,Aceh,12,7,1,4
+2020-05-04,Bali,271,159,4,108
+2020-05-04,Bangka Belitung Islands,20,4,1,15
+2020-05-04,Banten,446,34,41,371
+2020-05-04,Bengkulu,12,1,1,10
+2020-05-04,Central Java,798,112,62,624
+2020-05-04,Central Kalimantan,180,15,7,158
+2020-05-04,Central Sulawesi,59,11,3,45
+2020-05-04,East Java,1124,178,117,829
+2020-05-04,East Kalimantan,167,13,1,153
+2020-05-04,East Nusa Tenggara,10,1,0,9
+2020-05-04,Gorontalo,15,2,1,12
+2020-05-04,Jakarta,4539,632,408,3499
+2020-05-04,Jambi,38,1,0,37
+2020-05-04,Lampung,54,17,5,32
+2020-05-04,Maluku,23,12,0,11
+2020-05-04,North Kalimantan,130,5,1,124
+2020-05-04,North Maluku,50,5,0,45
+2020-05-04,North Sulawesi,45,17,4,24
+2020-05-04,North Sumatra,129,41,13,75
+2020-05-04,Papua,240,48,6,186
+2020-05-04,Riau,58,26,6,26
+2020-05-04,Riau Islands,92,42,9,41
+2020-05-04,South Kalimantan,198,24,9,165
+2020-05-04,South Sulawesi,607,199,40,368
+2020-05-04,South Sumatra,185,43,5,137
+2020-05-04,Southeast Sulawesi,64,11,2,51
+2020-05-04,Yogyakarta,115,50,7,58
+2020-05-04,West Java,1252,159,86,1007
+2020-05-04,West Kalimantan,73,8,3,62
+2020-05-04,West Nusa Tenggara,269,36,4,229
+2020-05-04,West Papua,43,0,1,42
+2020-05-04,West Sulawesi,44,4,1,39
+2020-05-04,West Sumatra,203,37,15,151
+2020-05-04,Under investigation,22,0,0,22
+2020-05-03,Aceh,12,6,1,5
+2020-05-03,Bali,262,151,4,107
+2020-05-03,Bangka Belitung Islands,20,4,1,15
+2020-05-03,Banten,432,34,41,357
+2020-05-03,Bengkulu,12,1,1,10
+2020-05-03,Central Java,776,112,62,602
+2020-05-03,Central Kalimantan,157,15,7,135
+2020-05-03,Central Sulawesi,59,11,3,45
+2020-05-03,East Java,1117,174,111,832
+2020-05-03,East Kalimantan,162,13,1,148
+2020-05-03,East Nusa Tenggara,10,1,0,9
+2020-05-03,Gorontalo,15,2,1,12
+2020-05-03,Jakarta,4463,632,398,3433
+2020-05-03,Jambi,38,1,0,37
+2020-05-03,Lampung,50,17,5,28
+2020-05-03,Maluku,23,12,0,11
+2020-05-03,North Kalimantan,122,5,1,116
+2020-05-03,North Maluku,50,5,0,45
+2020-05-03,North Sulawesi,45,17,4,24
+2020-05-03,North Sumatra,123,41,13,69
+2020-05-03,Papua,240,48,6,186
+2020-05-03,Riau,53,26,5,22
+2020-05-03,Riau Islands,92,42,9,41
+2020-05-03,South Kalimantan,195,24,9,162
+2020-05-03,South Sulawesi,601,151,40,410
+2020-05-03,South Sumatra,185,36,4,145
+2020-05-03,Southeast Sulawesi,64,11,2,51
+2020-05-03,Yogyakarta,115,49,7,59
+2020-05-03,West Java,1054,152,85,817
+2020-05-03,West Kalimantan,70,8,3,59
+2020-05-03,West Nusa Tenggara,269,36,4,229
+2020-05-03,West Papua,43,0,1,42
+2020-05-03,West Sulawesi,44,4,1,39
+2020-05-03,West Sumatra,195,35,15,145
+2020-05-03,Under investigation,24,0,0,24
+2020-05-02,Aceh,11,6,1,4
+2020-05-02,Bali,237,129,4,104
+2020-05-02,Bangka Belitung Islands,19,4,1,14
+2020-05-02,Banten,427,34,41,352
+2020-05-02,Bengkulu,12,1,1,10
+2020-05-02,Central Java,767,112,62,593
+2020-05-02,Central Kalimantan,157,11,6,140
+2020-05-02,Central Sulawesi,59,11,3,45
+2020-05-02,East Java,1037,165,106,766
+2020-05-02,East Kalimantan,154,13,1,140
+2020-05-02,East Nusa Tenggara,3,1,0,2
+2020-05-02,Gorontalo,15,2,1,12
+2020-05-02,Jakarta,4397,513,392,3492
+2020-05-02,Jambi,32,1,0,31
+2020-05-02,Lampung,50,13,5,32
+2020-05-02,Maluku,23,12,0,11
+2020-05-02,North Kalimantan,122,5,1,116
+2020-05-02,North Maluku,41,3,0,38
+2020-05-02,North Sulawesi,45,17,4,24
+2020-05-02,North Sumatra,117,41,13,63
+2020-05-02,Papua,240,48,6,186
+2020-05-02,Riau,45,23,5,17
+2020-05-02,Riau Islands,89,22,9,58
+2020-05-02,South Kalimantan,179,24,9,146
+2020-05-02,South Sulawesi,577,145,40,392
+2020-05-02,South Sumatra,156,29,3,124
+2020-05-02,Southeast Sulawesi,64,11,2,51
+2020-05-02,Yogyakarta,114,48,7,59
+2020-05-02,West Java,1043,147,84,812
+2020-05-02,West Kalimantan,68,8,3,57
+2020-05-02,West Nusa Tenggara,250,32,4,214
+2020-05-02,West Papua,43,0,1,42
+2020-05-02,West Sulawesi,44,4,1,39
+2020-05-02,West Sumatra,182,30,15,137
+2020-05-02,Under investigation,24,0,0,24
+2020-05-01,Aceh,11,4,1,6
+2020-05-01,Bali,235,121,4,110
+2020-05-01,Bangka Belitung Islands,19,4,1,14
+2020-05-01,Banten,418,34,41,343
+2020-05-01,Bengkulu,12,1,1,10
+2020-05-01,Central Java,746,112,60,574
+2020-05-01,Central Kalimantan,156,11,6,139
+2020-05-01,Central Sulawesi,48,11,3,34
+2020-05-01,East Java,1034,162,99,773
+2020-05-01,East Kalimantan,136,13,1,122
+2020-05-01,East Nusa Tenggara,3,1,0,2
+2020-05-01,Gorontalo,15,2,1,12
+2020-05-01,Jakarta,4317,488,375,3454
+2020-05-01,Jambi,32,1,0,31
+2020-05-01,Lampung,50,13,5,32
+2020-05-01,Maluku,23,12,0,11
+2020-05-01,North Kalimantan,115,5,1,109
+2020-05-01,North Maluku,41,3,0,38
+2020-05-01,North Sulawesi,45,14,4,27
+2020-05-01,North Sumatra,117,41,13,63
+2020-05-01,Papua,210,48,6,156
+2020-05-01,Riau,42,16,4,22
+2020-05-01,Riau Islands,89,15,9,65
+2020-05-01,South Kalimantan,179,23,9,147
+2020-05-01,South Sulawesi,547,135,37,375
+2020-05-01,South Sumatra,156,29,3,124
+2020-05-01,Southeast Sulawesi,62,11,2,49
+2020-05-01,Yogyakarta,104,44,7,53
+2020-05-01,West Java,1012,145,83,784
+2020-05-01,West Kalimantan,61,8,3,50
+2020-05-01,West Nusa Tenggara,233,31,4,198
+2020-05-01,West Papua,42,0,1,41
+2020-05-01,West Sulawesi,43,3,1,39
+2020-05-01,West Sumatra,172,30,15,127
+2020-05-01,Under investigation,26,0,0,26
+2020-04-30,Aceh,10,4,1,5
+2020-04-30,Bali,222,113,4,105
+2020-04-30,Bangka Belitung Islands,10,2,1,7
+2020-04-30,Banten,404,34,41,329
+2020-04-30,Bengkulu,12,1,1,10
+2020-04-30,Central Java,724,102,59,563
+2020-04-30,Central Kalimantan,145,11,6,128
+2020-04-30,Central Sulawesi,47,8,3,36
+2020-04-30,East Java,958,157,96,705
+2020-04-30,East Kalimantan,134,12,1,121
+2020-04-30,East Nusa Tenggara,3,1,0,2
+2020-04-30,Gorontalo,15,2,1,12
+2020-04-30,Jakarta,4175,486,371,3318
+2020-04-30,Jambi,32,1,0,31
+2020-04-30,Lampung,46,13,5,28
+2020-04-30,Maluku,23,12,0,11
+2020-04-30,North Kalimantan,100,4,1,95
+2020-04-30,North Maluku,40,3,0,37
+2020-04-30,North Sulawesi,45,14,4,27
+2020-04-30,North Sumatra,117,41,13,63
+2020-04-30,Papua,205,47,6,152
+2020-04-30,Riau,41,16,4,21
+2020-04-30,Riau Islands,89,11,9,69
+2020-04-30,South Kalimantan,170,23,10,137
+2020-04-30,South Sulawesi,491,122,37,332
+2020-04-30,South Sumatra,150,23,3,124
+2020-04-30,Southeast Sulawesi,62,10,2,50
+2020-04-30,Yogyakarta,95,41,13,41
+2020-04-30,West Java,1012,143,83,786
+2020-04-30,West Kalimantan,58,7,3,48
+2020-04-30,West Nusa Tenggara,230,31,4,195
+2020-04-30,West Papua,37,0,1,36
+2020-04-30,West Sulawesi,42,3,1,38
+2020-04-30,West Sumatra,148,25,15,108
+2020-04-30,Under investigation,27,0,0,27
+2020-04-29,Aceh,9,4,1,4
+2020-04-29,Bali,215,96,4,115
+2020-04-29,Bangka Belitung Islands,10,2,1,7
+2020-04-29,Banten,388,33,41,314
+2020-04-29,Bengkulu,12,1,1,10
+2020-04-29,Central Java,711,101,59,551
+2020-04-29,Central Kalimantan,127,11,6,110
+2020-04-29,Central Sulawesi,47,8,3,36
+2020-04-29,East Java,872,152,95,625
+2020-04-29,East Kalimantan,119,12,1,106
+2020-04-29,East Nusa Tenggara,1,1,0,0
+2020-04-29,Gorontalo,15,2,1,12
+2020-04-29,Jakarta,4092,440,370,3282
+2020-04-29,Jambi,32,1,0,31
+2020-04-29,Lampung,46,11,5,30
+2020-04-29,Maluku,23,12,0,11
+2020-04-29,North Kalimantan,92,2,1,89
+2020-04-29,North Maluku,26,3,0,23
+2020-04-29,North Sulawesi,44,14,3,27
+2020-04-29,North Sumatra,114,40,12,62
+2020-04-29,Papua,189,47,6,136
+2020-04-29,Riau,41,15,4,22
+2020-04-29,Riau Islands,89,11,9,69
+2020-04-29,South Kalimantan,157,20,9,128
+2020-04-29,South Sulawesi,465,118,37,310
+2020-04-29,South Sumatra,144,22,3,119
+2020-04-29,Southeast Sulawesi,53,7,2,44
+2020-04-29,Yogyakarta,94,40,7,47
+2020-04-29,West Java,1009,107,79,823
+2020-04-29,West Kalimantan,58,7,3,48
+2020-04-29,West Nusa Tenggara,230,24,4,202
+2020-04-29,West Papua,37,0,1,36
+2020-04-29,West Sulawesi,38,3,1,34
+2020-04-29,West Sumatra,145,24,15,106
+2020-04-29,Under investigation,27,0,0,27
+2020-04-28,Aceh,9,4,1,4
+2020-04-28,Bali,215,88,4,123
+2020-04-28,Bangka Belitung Islands,10,2,1,7
+2020-04-28,Banten,388,33,41,314
+2020-04-28,Bengkulu,8,1,1,6
+2020-04-28,Central Java,682,89,58,535
+2020-04-28,Central Kalimantan,121,11,6,104
+2020-04-28,Central Sulawesi,42,8,3,31
+2020-04-28,East Java,857,144,90,623
+2020-04-28,East Kalimantan,115,12,1,102
+2020-04-28,East Nusa Tenggara,1,1,0,0
+2020-04-28,Gorontalo,15,0,1,14
+2020-04-28,Jakarta,4002,363,370,3269
+2020-04-28,Jambi,32,1,0,31
+2020-04-28,Lampung,44,10,5,29
+2020-04-28,Maluku,22,12,0,10
+2020-04-28,North Kalimantan,92,2,1,89
+2020-04-28,North Maluku,26,2,0,24
+2020-04-28,North Sulawesi,43,11,3,29
+2020-04-28,North Sumatra,111,35,12,64
+2020-04-28,Papua,177,47,6,124
+2020-04-28,Riau,40,15,4,21
+2020-04-28,Riau Islands,89,11,8,70
+2020-04-28,South Kalimantan,150,10,6,134
+2020-04-28,South Sulawesi,453,108,37,308
+2020-04-28,South Sumatra,143,22,3,118
+2020-04-28,Southeast Sulawesi,45,6,2,37
+2020-04-28,Yogyakarta,93,39,7,47
+2020-04-28,West Java,969,103,79,787
+2020-04-28,West Kalimantan,51,7,3,41
+2020-04-28,West Nusa Tenggara,221,24,4,193
+2020-04-28,West Papua,37,0,1,36
+2020-04-28,West Sulawesi,37,2,1,34
+2020-04-28,West Sumatra,144,24,14,106
+2020-04-28,Under investigation,27,0,0,27
+2020-04-27,Aceh,9,4,1,4
+2020-04-27,Bali,194,81,4,109
+2020-04-27,Bangka Belitung Islands,10,2,1,7
+2020-04-27,Banten,382,33,40,309
+2020-04-27,Bengkulu,8,1,1,6
+2020-04-27,Central Java,666,88,58,520
+2020-04-27,Central Kalimantan,112,10,5,97
+2020-04-27,Central Sulawesi,36,3,3,30
+2020-04-27,East Java,796,140,88,568
+2020-04-27,East Kalimantan,107,12,1,94
+2020-04-27,East Nusa Tenggara,1,1,0,0
+2020-04-27,Gorontalo,14,0,1,13
+2020-04-27,Jakarta,3869,337,367,3165
+2020-04-27,Jambi,32,1,0,31
+2020-04-27,Lampung,42,10,5,27
+2020-04-27,Maluku,22,11,0,11
+2020-04-27,North Kalimantan,90,2,1,87
+2020-04-27,North Maluku,26,2,0,24
+2020-04-27,North Sulawesi,40,11,3,26
+2020-04-27,North Sumatra,111,21,12,78
+2020-04-27,Papua,151,32,6,113
+2020-04-27,Riau,39,14,4,21
+2020-04-27,Riau Islands,86,9,8,69
+2020-04-27,South Kalimantan,150,10,6,134
+2020-04-27,South Sulawesi,440,106,37,297
+2020-04-27,South Sumatra,129,18,3,108
+2020-04-27,Southeast Sulawesi,45,6,2,37
+2020-04-27,Yogyakarta,83,37,7,39
+2020-04-27,West Java,951,96,78,777
+2020-04-27,West Kalimantan,51,7,3,41
+2020-04-27,West Nusa Tenggara,206,22,4,180
+2020-04-27,West Papua,16,0,1,15
+2020-04-27,West Sulawesi,35,1,1,33
+2020-04-27,West Sumatra,121,23,14,84
+2020-04-27,Under investigation,26,0,0,26
+2020-04-26,Aceh,9,4,1,4
+2020-04-26,Bali,186,75,4,107
+2020-04-26,Bangka Belitung Islands,10,2,1,7
+2020-04-26,Banten,370,33,39,298
+2020-04-26,Bengkulu,8,1,1,6
+2020-04-26,Central Java,649,72,58,519
+2020-04-26,Central Kalimantan,104,9,4,91
+2020-04-26,Central Sulawesi,36,3,3,30
+2020-04-26,East Java,785,138,87,560
+2020-04-26,East Kalimantan,105,11,1,93
+2020-04-26,East Nusa Tenggara,1,1,0,0
+2020-04-26,Gorontalo,15,0,1,14
+2020-04-26,Jakarta,3798,335,353,3110
+2020-04-26,Jambi,32,1,0,31
+2020-04-26,Lampung,42,10,5,27
+2020-04-26,Maluku,22,11,0,11
+2020-04-26,North Kalimantan,89,2,1,86
+2020-04-26,North Maluku,26,2,0,24
+2020-04-26,North Sulawesi,40,11,3,26
+2020-04-26,North Sumatra,111,21,12,78
+2020-04-26,Papua,141,32,6,103
+2020-04-26,Riau,39,14,4,21
+2020-04-26,Riau Islands,85,9,8,68
+2020-04-26,South Kalimantan,146,10,6,130
+2020-04-26,South Sulawesi,440,99,36,305
+2020-04-26,South Sumatra,129,18,3,108
+2020-04-26,Southeast Sulawesi,45,6,2,37
+2020-04-26,Yogyakarta,82,36,7,39
+2020-04-26,West Java,912,93,77,742
+2020-04-26,West Kalimantan,51,7,3,41
+2020-04-26,West Nusa Tenggara,195,20,4,171
+2020-04-26,West Papua,16,0,1,15
+2020-04-26,West Sulawesi,35,1,1,33
+2020-04-26,West Sumatra,102,20,11,71
+2020-04-26,Under investigation,26,0,0,26
+2020-04-25,Aceh,9,4,1,4
+2020-04-25,Bali,183,70,4,109
+2020-04-25,Bangka Belitung Islands,9,2,1,6
+2020-04-25,Banten,370,33,39,298
+2020-04-25,Bengkulu,8,1,1,6
+2020-04-25,Central Java,621,58,54,509
+2020-04-25,Central Kalimantan,100,9,4,87
+2020-04-25,Central Sulawesi,36,3,3,30
+2020-04-25,East Java,770,133,75,562
+2020-04-25,East Kalimantan,97,11,1,85
+2020-04-25,East Nusa Tenggara,1,0,0,1
+2020-04-25,Gorontalo,14,0,1,13
+2020-04-25,Jakarta,3684,334,346,3004
+2020-04-25,Jambi,21,1,0,20
+2020-04-25,Lampung,38,10,5,23
+2020-04-25,Maluku,22,10,0,12
+2020-04-25,North Kalimantan,83,2,1,80
+2020-04-25,North Maluku,14,2,0,12
+2020-04-25,North Sulawesi,36,5,3,28
+2020-04-25,North Sumatra,105,21,12,72
+2020-04-25,Papua,136,32,6,98
+2020-04-25,Riau,38,13,4,21
+2020-04-25,Riau Islands,83,9,8,66
+2020-04-25,South Kalimantan,146,10,6,130
+2020-04-25,South Sulawesi,432,82,36,314
+2020-04-25,South Sumatra,119,5,3,111
+2020-04-25,Southeast Sulawesi,41,5,2,34
+2020-04-25,Yogyakarta,79,36,7,36
+2020-04-25,West Java,907,93,77,737
+2020-04-25,West Kalimantan,51,7,3,41
+2020-04-25,West Nusa Tenggara,180,20,4,156
+2020-04-25,West Papua,16,0,1,15
+2020-04-25,West Sulawesi,35,1,1,33
+2020-04-25,West Sumatra,97,20,11,66
+2020-04-25,Under investigation,26,0,0,26
+2020-04-24,Aceh,8,4,1,3
+2020-04-24,Bali,177,55,4,118
+2020-04-24,Bangka Belitung Islands,9,2,1,6
+2020-04-24,Banten,359,33,39,287
+2020-04-24,Bengkulu,8,1,1,6
+2020-04-24,Central Java,575,58,54,463
+2020-04-24,Central Kalimantan,94,9,4,81
+2020-04-24,Central Sulawesi,32,3,3,26
+2020-04-24,East Java,690,128,67,495
+2020-04-24,East Kalimantan,85,11,1,73
+2020-04-24,East Nusa Tenggara,1,0,0,1
+2020-04-24,Gorontalo,12,0,1,11
+2020-04-24,Jakarta,3599,327,326,2958
+2020-04-24,Jambi,18,1,0,17
+2020-04-24,Lampung,38,10,5,23
+2020-04-24,Maluku,17,10,0,7
+2020-04-24,North Kalimantan,77,2,1,74
+2020-04-24,North Maluku,14,2,0,12
+2020-04-24,North Sulawesi,36,5,3,28
+2020-04-24,North Sumatra,96,21,11,64
+2020-04-24,Papua,136,32,6,98
+2020-04-24,Riau,36,12,4,20
+2020-04-24,Riau Islands,83,9,8,66
+2020-04-24,South Kalimantan,132,10,6,116
+2020-04-24,South Sulawesi,420,81,35,304
+2020-04-24,South Sumatra,106,5,3,98
+2020-04-24,Southeast Sulawesi,41,5,2,34
+2020-04-24,Yogyakarta,77,36,7,34
+2020-04-24,West Java,862,90,77,695
+2020-04-24,West Kalimantan,50,7,3,40
+2020-04-24,West Nusa Tenggara,153,15,4,134
+2020-04-24,West Papua,15,0,1,14
+2020-04-24,West Sulawesi,33,1,1,31
+2020-04-24,West Sumatra,96,17,10,69
+2020-04-24,Under investigation,26,0,0,26
+2020-04-23,Aceh,7,4,1,2
+2020-04-23,Bali,167,55,4,108
+2020-04-23,Bangka Belitung Islands,8,2,1,5
+2020-04-23,Banten,337,29,35,273
+2020-04-23,Bengkulu,8,1,1,6
+2020-04-23,Central Java,538,54,53,431
+2020-04-23,Central Kalimantan,83,9,4,70
+2020-04-23,Central Sulawesi,29,3,3,23
+2020-04-23,East Java,664,112,60,492
+2020-04-23,East Kalimantan,74,11,1,62
+2020-04-23,East Nusa Tenggara,1,0,0,1
+2020-04-23,Gorontalo,7,0,1,6
+2020-04-23,Jakarta,3517,326,301,2890
+2020-04-23,Jambi,14,1,0,13
+2020-04-23,Lampung,38,10,5,23
+2020-04-23,Maluku,17,10,0,7
+2020-04-23,North Kalimantan,77,2,1,74
+2020-04-23,North Maluku,14,2,0,12
+2020-04-23,North Sulawesi,31,5,3,23
+2020-04-23,North Sumatra,95,21,11,63
+2020-04-23,Papua,130,32,6,92
+2020-04-23,Riau,36,9,4,23
+2020-04-23,Riau Islands,83,8,8,67
+2020-04-23,South Kalimantan,114,9,6,99
+2020-04-23,South Sulawesi,397,80,34,283
+2020-04-23,South Sumatra,93,5,3,85
+2020-04-23,Southeast Sulawesi,37,4,2,31
+2020-04-23,Yogyakarta,76,32,7,37
+2020-04-23,West Java,784,87,74,623
+2020-04-23,West Kalimantan,50,7,3,40
+2020-04-23,West Nusa Tenggara,115,13,4,98
+2020-04-23,West Papua,13,0,1,12
+2020-04-23,West Sulawesi,8,1,1,6
+2020-04-23,West Sumatra,86,16,9,61
+2020-04-23,Under investigation,26,0,0,26
+2020-04-22,Aceh,7,4,1,2
+2020-04-22,Bali,152,47,4,101
+2020-04-22,Bangka Belitung Islands,8,2,1,5
+2020-04-22,Banten,337,29,35,273
+2020-04-22,Bengkulu,8,1,1,6
+2020-04-22,Central Java,479,54,52,373
+2020-04-22,Central Kalimantan,82,9,4,69
+2020-04-22,Central Sulawesi,29,3,3,23
+2020-04-22,East Java,638,101,58,479
+2020-04-22,East Kalimantan,69,11,1,57
+2020-04-22,East Nusa Tenggara,1,0,0,1
+2020-04-22,Gorontalo,7,0,1,6
+2020-04-22,Jakarta,3383,322,301,2760
+2020-04-22,Jambi,13,1,0,12
+2020-04-22,Lampung,27,10,5,12
+2020-04-22,Maluku,17,10,0,7
+2020-04-22,North Kalimantan,77,2,1,74
+2020-04-22,North Maluku,12,2,0,10
+2020-04-22,North Sulawesi,20,5,3,12
+2020-04-22,North Sumatra,93,21,10,62
+2020-04-22,Papua,123,28,6,89
+2020-04-22,Riau,35,9,4,22
+2020-04-22,Riau Islands,81,8,8,65
+2020-04-22,South Kalimantan,107,9,6,92
+2020-04-22,South Sulawesi,387,75,30,282
+2020-04-22,South Sumatra,89,5,3,81
+2020-04-22,Southeast Sulawesi,37,4,2,31
+2020-04-22,Yogyakarta,75,30,7,38
+2020-04-22,West Java,762,79,71,612
+2020-04-22,West Kalimantan,31,7,3,21
+2020-04-22,West Nusa Tenggara,108,11,4,93
+2020-04-22,West Papua,8,0,1,7
+2020-04-22,West Sulawesi,8,1,1,6
+2020-04-22,West Sumatra,81,13,8,60
+2020-04-22,Under investigation,27,0,0,27
+2020-04-21,Aceh,7,4,1,2
+2020-04-21,Bali,150,42,3,105
+2020-04-21,Bangka Belitung Islands,8,2,1,5
+2020-04-21,Banten,341,17,35,289
+2020-04-21,Bengkulu,8,1,1,6
+2020-04-21,Central Java,449,51,44,354
+2020-04-21,Central Kalimantan,67,9,4,54
+2020-04-21,Central Sulawesi,27,3,3,21
+2020-04-21,East Java,603,101,58,444
+2020-04-21,East Kalimantan,68,11,1,56
+2020-04-21,East Nusa Tenggara,1,0,0,1
+2020-04-21,Gorontalo,7,0,1,6
+2020-04-21,Jakarta,3260,286,298,2676
+2020-04-21,Jambi,13,1,0,12
+2020-04-21,Lampung,27,10,5,12
+2020-04-21,Maluku,17,10,0,7
+2020-04-21,North Kalimantan,77,2,1,74
+2020-04-21,North Maluku,4,2,0,2
+2020-04-21,North Sulawesi,20,5,3,12
+2020-04-21,North Sumatra,84,13,9,62
+2020-04-21,Papua,118,28,6,84
+2020-04-21,Riau,35,9,4,22
+2020-04-21,Riau Islands,81,8,8,65
+2020-04-21,South Kalimantan,98,9,6,83
+2020-04-21,South Sulawesi,374,73,30,271
+2020-04-21,South Sumatra,89,5,3,81
+2020-04-21,Southeast Sulawesi,37,4,2,31
+2020-04-21,Yogyakarta,72,30,7,35
+2020-04-21,West Java,756,75,68,613
+2020-04-21,West Kalimantan,27,7,3,17
+2020-04-21,West Nusa Tenggara,93,11,4,78
+2020-04-21,West Papua,7,0,1,6
+2020-04-21,West Sulawesi,7,1,1,5
+2020-04-21,West Sumatra,76,13,7,56
+2020-04-21,Under investigation,27,0,0,27
+2020-04-20,Aceh,7,4,1,2
+2020-04-20,Bali,140,42,3,95
+2020-04-20,Bangka Belitung Islands,7,1,1,5
+2020-04-20,Banten,341,17,35,289
+2020-04-20,Bengkulu,4,0,1,3
+2020-04-20,Central Java,351,51,44,256
+2020-04-20,Central Kalimantan,60,9,3,48
+2020-04-20,Central Sulawesi,27,2,3,22
+2020-04-20,East Java,590,98,56,436
+2020-04-20,East Kalimantan,59,11,1,47
+2020-04-20,East Nusa Tenggara,1,0,0,1
+2020-04-20,Gorontalo,4,0,0,4
+2020-04-20,Jakarta,3097,230,287,2580
+2020-04-20,Jambi,8,1,0,7
+2020-04-20,Lampung,26,10,5,11
+2020-04-20,Maluku,17,10,0,7
+2020-04-20,North Kalimantan,74,2,1,71
+2020-04-20,North Maluku,4,2,0,2
+2020-04-20,North Sulawesi,20,5,2,13
+2020-04-20,North Sumatra,83,13,9,61
+2020-04-20,Papua,107,28,6,73
+2020-04-20,Riau,34,9,4,21
+2020-04-20,Riau Islands,79,6,7,66
+2020-04-20,South Kalimantan,96,9,6,81
+2020-04-20,South Sulawesi,370,63,25,282
+2020-04-20,South Sumatra,89,5,3,81
+2020-04-20,Southeast Sulawesi,37,4,2,31
+2020-04-20,Yogyakarta,69,28,7,34
+2020-04-20,West Java,747,56,62,629
+2020-04-20,West Kalimantan,21,6,3,12
+2020-04-20,West Nusa Tenggara,72,11,4,57
+2020-04-20,West Papua,7,0,1,6
+2020-04-20,West Sulawesi,7,1,1,5
+2020-04-20,West Sumatra,74,13,7,54
+2020-04-20,Under investigation,27,0,0,27
+2020-04-19,Aceh,7,4,1,2
+2020-04-19,Bali,135,38,3,94
+2020-04-19,Bangka Belitung Islands,7,0,1,6
+2020-04-19,Banten,324,9,34,281
+2020-04-19,Bengkulu,4,0,1,3
+2020-04-19,Central Java,349,51,44,254
+2020-04-19,Central Kalimantan,46,8,2,36
+2020-04-19,Central Sulawesi,27,2,3,22
+2020-04-19,East Java,590,98,54,438
+2020-04-19,East Kalimantan,59,11,1,47
+2020-04-19,East Nusa Tenggara,1,0,0,1
+2020-04-19,Gorontalo,4,0,0,4
+2020-04-19,Jakarta,3032,234,287,2511
+2020-04-19,Jambi,8,0,0,8
+2020-04-19,Lampung,26,10,5,11
+2020-04-19,Maluku,17,6,0,11
+2020-04-19,North Kalimantan,69,2,1,66
+2020-04-19,North Maluku,4,2,0,2
+2020-04-19,North Sulawesi,20,5,2,13
+2020-04-19,North Sumatra,81,12,9,60
+2020-04-19,Papua,107,18,6,83
+2020-04-19,Riau,30,9,4,17
+2020-04-19,Riau Islands,79,6,7,66
+2020-04-19,South Kalimantan,96,6,6,84
+2020-04-19,South Sulawesi,370,43,25,292
+2020-04-19,South Sumatra,89,5,3,81
+2020-04-19,Southeast Sulawesi,37,4,2,31
+2020-04-19,Yogyakarta,67,27,7,33
+2020-04-19,West Java,696,45,59,592
+2020-04-19,West Kalimantan,21,6,3,12
+2020-04-19,West Nusa Tenggara,61,11,3,47
+2020-04-19,West Papua,7,0,1,6
+2020-04-19,West Sulawesi,7,1,1,5
+2020-04-19,West Sumatra,72,13,7,52
+2020-04-19,Under investigation,26,0,0,26
+2020-04-18,Aceh,6,4,1,1
+2020-04-18,Bali,131,36,3,92
+2020-04-18,Bangka Belitung Islands,6,0,1,5
+2020-04-18,Banten,321,9,34,278
+2020-04-18,Bengkulu,4,0,1,3
+2020-04-18,Central Java,329,44,41,244
+2020-04-18,Central Kalimantan,41,8,2,31
+2020-04-18,Central Sulawesi,24,2,3,19
+2020-04-18,East Java,555,98,54,403
+2020-04-18,East Kalimantan,54,11,1,42
+2020-04-18,East Nusa Tenggara,1,0,0,1
+2020-04-18,Gorontalo,4,0,0,4
+2020-04-18,Jakarta,2924,205,253,2466
+2020-04-18,Jambi,8,0,0,8
+2020-04-18,Lampung,26,10,5,11
+2020-04-18,Maluku,17,6,0,11
+2020-04-18,North Kalimantan,50,2,1,47
+2020-04-18,North Maluku,4,2,0,2
+2020-04-18,North Sulawesi,20,5,2,13
+2020-04-18,North Sumatra,79,12,9,58
+2020-04-18,Papua,95,18,6,71
+2020-04-18,Riau,30,9,4,17
+2020-04-18,Riau Islands,79,6,7,66
+2020-04-18,South Kalimantan,92,6,6,80
+2020-04-18,South Sulawesi,343,43,25,275
+2020-04-18,South Sumatra,84,5,2,77
+2020-04-18,Southeast Sulawesi,28,4,2,22
+2020-04-18,Yogyakarta,67,26,7,34
+2020-04-18,West Java,641,41,56,544
+2020-04-18,West Kalimantan,21,5,3,13
+2020-04-18,West Nusa Tenggara,55,2,2,51
+2020-04-18,West Papua,5,0,1,4
+2020-04-18,West Sulawesi,7,1,1,5
+2020-04-18,West Sumatra,71,13,7,51
+2020-04-18,Under investigation,26,0,0,26
+2020-04-17,Aceh,5,4,1,0
+2020-04-17,Bali,124,36,2,86
+2020-04-17,Bangka Belitung Islands,6,0,1,5
+2020-04-17,Banten,311,9,34,268
+2020-04-17,Bengkulu,4,0,1,3
+2020-04-17,Central Java,304,36,41,227
+2020-04-17,Central Kalimantan,35,8,2,25
+2020-04-17,Central Sulawesi,24,2,3,19
+2020-04-17,East Java,522,94,46,382
+2020-04-17,East Kalimantan,44,10,1,33
+2020-04-17,East Nusa Tenggara,1,0,0,1
+2020-04-17,Gorontalo,4,0,0,4
+2020-04-17,Jakarta,2815,204,246,2365
+2020-04-17,Jambi,8,0,0,8
+2020-04-17,Lampung,26,10,5,11
+2020-04-17,Maluku,14,1,0,13
+2020-04-17,North Kalimantan,47,2,1,44
+2020-04-17,North Maluku,4,2,0,2
+2020-04-17,North Sulawesi,18,5,2,11
+2020-04-17,North Sumatra,79,12,9,58
+2020-04-17,Papua,89,15,6,68
+2020-04-17,Riau,26,9,4,13
+2020-04-17,Riau Islands,58,5,7,46
+2020-04-17,South Kalimantan,74,6,6,62
+2020-04-17,South Sulawesi,332,43,23,266
+2020-04-17,South Sumatra,54,5,2,47
+2020-04-17,Southeast Sulawesi,27,4,1,22
+2020-04-17,Yogyakarta,64,25,7,32
+2020-04-17,West Java,632,41,56,535
+2020-04-17,West Kalimantan,21,5,3,13
+2020-04-17,West Nusa Tenggara,51,2,2,47
+2020-04-17,West Papua,5,0,1,4
+2020-04-17,West Sulawesi,7,1,1,5
+2020-04-17,West Sumatra,62,11,6,45
+2020-04-17,Under investigation,26,0,0,26
+2020-04-16,Aceh,5,4,1,0
+2020-04-16,Bali,113,32,2,79
+2020-04-16,Bangka Belitung Islands,6,0,1,5
+2020-04-16,Banten,297,7,32,258
+2020-04-16,Bengkulu,4,0,1,3
+2020-04-16,Central Java,300,19,27,254
+2020-04-16,Central Kalimantan,34,8,2,24
+2020-04-16,Central Sulawesi,22,2,3,17
+2020-04-16,East Java,514,92,46,376
+2020-04-16,East Kalimantan,44,10,1,33
+2020-04-16,East Nusa Tenggara,1,0,0,1
+2020-04-16,Gorontalo,4,0,0,4
+2020-04-16,Jakarta,2670,202,244,2224
+2020-04-16,Jambi,7,0,0,7
+2020-04-16,Lampung,25,8,5,12
+2020-04-16,Maluku,14,1,0,13
+2020-04-16,North Kalimantan,28,2,1,25
+2020-04-16,North Maluku,4,2,0,2
+2020-04-16,North Sulawesi,18,5,2,11
+2020-04-16,North Sumatra,79,12,9,58
+2020-04-16,Papua,80,15,6,59
+2020-04-16,Riau,24,5,3,16
+2020-04-16,Riau Islands,38,5,7,26
+2020-04-16,South Kalimantan,59,6,6,47
+2020-04-16,South Sulawesi,271,42,23,206
+2020-04-16,South Sumatra,37,5,2,30
+2020-04-16,Southeast Sulawesi,26,4,1,21
+2020-04-16,Yogyakarta,62,22,7,33
+2020-04-16,West Java,570,28,53,489
+2020-04-16,West Kalimantan,21,5,3,13
+2020-04-16,West Nusa Tenggara,45,2,2,41
+2020-04-16,West Papua,5,0,1,4
+2020-04-16,West Sulawesi,7,1,1,5
+2020-04-16,West Sumatra,55,8,4,43
+2020-04-16,Under investigation,27,0,0,27
+2020-04-15,Aceh,5,4,1,0
+2020-04-15,Bali,98,23,2,73
+2020-04-15,Bangka Belitung Islands,5,0,1,4
+2020-04-15,Banten,281,7,25,249
+2020-04-15,Bengkulu,4,0,1,3
+2020-04-15,Central Java,292,19,27,246
+2020-04-15,Central Kalimantan,33,8,2,23
+2020-04-15,Central Sulawesi,22,2,3,17
+2020-04-15,East Java,499,81,45,373
+2020-04-15,East Kalimantan,35,6,1,28
+2020-04-15,East Nusa Tenggara,1,0,0,1
+2020-04-15,Gorontalo,1,0,0,1
+2020-04-15,Jakarta,2474,164,242,2068
+2020-04-15,Jambi,6,0,0,6
+2020-04-15,Lampung,20,1,5,14
+2020-04-15,Maluku,14,1,0,13
+2020-04-15,North Kalimantan,20,1,1,18
+2020-04-15,North Maluku,4,2,0,2
+2020-04-15,North Sulawesi,18,2,2,14
+2020-04-15,North Sumatra,78,10,9,59
+2020-04-15,Papua,75,5,3,67
+2020-04-15,Riau,20,1,0,19
+2020-04-15,Riau Islands,32,2,5,25
+2020-04-15,South Kalimantan,49,3,6,40
+2020-04-15,South Sulawesi,242,42,15,185
+2020-04-15,Southeast Sulawesi,24,1,1,22
+2020-04-15,South Sumatra,22,4,2,16
+2020-04-15,West Java,559,23,52,484
+2020-04-15,West Kalimantan,13,5,3,5
+2020-04-15,West Nusa Tenggara,37,2,2,33
+2020-04-15,West Papua,2,0,1,1
+2020-04-15,West Sulawesi,7,1,1,5
+2020-04-15,West Sumatra,55,8,4,43
+2020-04-15,Yogyakarta,62,18,7,37
+2020-04-15,Under investigation,27,0,0,27
+2020-04-14,Aceh,5,4,1,0
+2020-04-14,Bali,92,21,2,69
+2020-04-14,Bangka Belitung Islands,4,0,1,3
+2020-04-14,Banten,280,7,22,251
+2020-04-14,Bengkulu,4,0,1,3
+2020-04-14,Central Java,278,19,26,233
+2020-04-14,Central Kalimantan,25,8,1,16
+2020-04-14,Central Sulawesi,19,4,2,13
+2020-04-14,East Java,475,76,41,358
+2020-04-14,East Kalimantan,35,6,1,28
+2020-04-14,East Nusa Tenggara,1,0,0,1
+2020-04-14,Gorontalo,1,0,0,1
+2020-04-14,Jakarta,2335,163,241,1931
+2020-04-14,Jambi,5,0,0,5
+2020-04-14,Lampung,21,1,5,15
+2020-04-14,Maluku,11,1,0,10
+2020-04-14,North Kalimantan,16,0,1,15
+2020-04-14,North Maluku,2,1,0,1
+2020-04-14,North Sulawesi,17,2,2,13
+2020-04-14,North Sumatra,72,10,9,53
+2020-04-14,Papua,68,5,3,60
+2020-04-14,Riau,20,1,0,19
+2020-04-14,Riau Islands,26,2,5,19
+2020-04-14,South Kalimantan,37,3,5,29
+2020-04-14,South Sulawesi,231,33,15,183
+2020-04-14,Southeast Sulawesi,16,1,1,14
+2020-04-14,South Sumatra,19,4,2,13
+2020-04-14,West Java,530,23,52,455
+2020-04-14,West Kalimantan,13,5,3,5
+2020-04-14,West Nusa Tenggara,37,2,2,33
+2020-04-14,West Papua,2,0,1,1
+2020-04-14,West Sulawesi,5,1,1,3
+2020-04-14,West Sumatra,48,7,5,36
+2020-04-14,Yogyakarta,62,18,7,37
+2020-04-14,Under investigation,27,0,0,27
+2020-04-13,Aceh,5,4,1,0
+2020-04-13,Bali,86,20,2,64
+2020-04-13,Bangka Belitung Islands,4,0,1,3
+2020-04-13,Banten,285,7,22,256
+2020-04-13,Bengkulu,4,0,1,3
+2020-04-13,Central Java,203,19,25,159
+2020-04-13,Central Kalimantan,25,8,1,16
+2020-04-13,Central Sulawesi,19,2,2,13
+2020-04-13,East Java,440,73,30,337
+2020-04-13,East Kalimantan,35,6,1,28
+2020-04-13,East Nusa Tenggara,1,0,0,1
+2020-04-13,Gorontalo,1,0,0,1
+2020-04-13,Jakarta,2186,142,204,1840
+2020-04-13,Jambi,4,0,0,4
+2020-04-13,Lampung,21,1,4,16
+2020-04-13,Maluku,11,1,0,10
+2020-04-13,North Kalimantan,16,0,1,15
+2020-04-13,North Maluku,2,1,0,1
+2020-04-13,North Sulawesi,17,2,2,13
+2020-04-13,North Sumatra,67,9,9,49
+2020-04-13,Papua,68,5,3,60
+2020-04-13,Riau,20,2,2,16
+2020-04-13,Riau Islands,21,2,1,18
+2020-04-13,South Kalimantan,34,0,2,32
+2020-04-13,South Sulawesi,223,31,15,177
+2020-04-13,Southeast Sulawesi,16,1,1,14
+2020-04-13,South Sumatra,18,4,2,12
+2020-04-13,West Java,540,22,52,466
+2020-04-13,West Kalimantan,13,3,3,7
+2020-04-13,West Nusa Tenggara,37,2,2,33
+2020-04-13,West Papua,2,0,1,1
+2020-04-13,West Sulawesi,5,1,1,3
+2020-04-13,West Sumatra,45,7,3,35
+2020-04-13,Yogyakarta,57,6,7,44
+2020-04-13,Under investigation,26,0,0,26
+2020-04-12,Aceh,5,1,2,3
+2020-04-12,Bali,81,19,2,60
+2020-04-12,Bangka Belitung Islands,4,0,1,3
+2020-04-12,Banten,281,7,21,253
+2020-04-12,Bengkulu,4,0,1,3
+2020-04-12,Central Java,200,19,25,156
+2020-04-12,Central Kalimantan,24,7,1,16
+2020-04-12,Central Sulawesi,19,2,2,13
+2020-04-12,East Java,386,68,27,291
+2020-04-12,East Kalimantan,35,6,1,28
+2020-04-12,East Nusa Tenggara,1,0,0,1
+2020-04-12,Gorontalo,1,0,0,1
+2020-04-12,Jakarta,2044,142,195,1707
+2020-04-12,Jambi,4,0,0,4
+2020-04-12,Lampung,20,1,1,18
+2020-04-12,Maluku,11,1,0,9
+2020-04-12,North Kalimantan,16,0,1,15
+2020-04-12,North Maluku,2,1,0,1
+2020-04-12,North Sulawesi,17,1,2,14
+2020-04-12,North Sumatra,65,8,8,49
+2020-04-12,Papua,63,5,3,55
+2020-04-12,Riau,16,1,0,15
+2020-04-12,Riau Islands,21,2,1,18
+2020-04-12,South Kalimantan,34,0,2,32
+2020-04-12,South Sulawesi,222,25,15,182
+2020-04-12,Southeast Sulawesi,16,1,1,14
+2020-04-12,South Sumatra,21,4,2,15
+2020-04-12,West Java,450,19,43,398
+2020-04-12,West Kalimantan,13,3,3,7
+2020-04-12,West Nusa Tenggara,37,2,2,33
+2020-04-12,West Papua,3,0,1,2
+2020-04-12,West Sulawesi,5,2,1,2
+2020-04-12,West Sumatra,44,6,3,35
+2020-04-12,Yogyakarta,41,6,7,28
+2020-04-12,Under investigation,35,0,0,35
+2020-04-11,Aceh,5,1,1,3
+2020-04-11,Bali,79,19,2,58
+2020-04-11,Bangka Belitung Islands,4,0,1,3
+2020-04-11,Banten,279,7,21,251
+2020-04-11,Bengkulu,4,0,1,3
+2020-04-11,Central Java,144,18,22,104
+2020-04-11,Central Kalimantan,24,7,1,16
+2020-04-11,Central Sulawesi,19,0,2,17
+2020-04-11,East Java,267,64,25,178
+2020-04-11,East Kalimantan,35,6,1,28
+2020-04-11,East Nusa Tenggara,1,0,0,1
+2020-04-11,Gorontalo,1,0,0,1
+2020-04-11,Jakarta,1948,82,159,1707
+2020-04-11,Jambi,4,0,0,4
+2020-04-11,Lampung,20,1,1,18
+2020-04-11,Maluku,3,1,0,2
+2020-04-11,North Maluku,2,1,0,1
+2020-04-11,North Kalimantan,16,0,1,15
+2020-04-11,North Sulawesi,13,1,2,10
+2020-04-11,North Sumatra,59,8,8,43
+2020-04-11,Papua,62,3,2,57
+2020-04-11,Riau,16,1,0,15
+2020-04-11,Riau Islands,21,2,1,18
+2020-04-11,South Kalimantan,29,0,2,27
+2020-04-11,South Sulawesi,178,25,15,138
+2020-04-11,Southeast Sulawesi,16,1,1,14
+2020-04-11,South Sumatra,21,1,2,18
+2020-04-11,West Java,421,19,40,362
+2020-04-11,West Kalimantan,10,3,2,5
+2020-04-11,West Nusa Tenggara,27,2,2,23
+2020-04-11,West Papua,2,0,1,1
+2020-04-11,West Sulawesi,5,0,1,4
+2020-04-11,West Sumatra,31,7,3,21
+2020-04-11,Yogyakarta,41,6,7,28
+2020-04-11,Under investigation,35,0,0,35
+2020-04-10,Aceh,5,1,1,3
+2020-04-10,Bali,75,19,2,54
+2020-04-10,Bangka Belitung Islands,3,0,1,2
+2020-04-10,Banten,243,7,21,215
+2020-04-10,Bengkulu,4,0,1,3
+2020-04-10,Central Java,144,18,22,104
+2020-04-10,Central Kalimantan,24,7,1,16
+2020-04-10,Central Sulawesi,14,0,2,12
+2020-04-10,East Java,256,62,22,172
+2020-04-10,East Kalimantan,35,6,1,28
+2020-04-10,East Nusa Tenggara,1,0,0,1
+2020-04-10,Gorontalo,1,0,0,1
+2020-04-10,Jakarta,1753,82,154,1517
+2020-04-10,Jambi,2,0,0,2
+2020-04-10,Lampung,20,1,1,18
+2020-04-10,Maluku,3,1,0,2
+2020-04-10,North Maluku,2,1,0,1
+2020-04-10,North Kalimantan,16,0,0,16
+2020-04-10,North Sulawesi,13,1,2,10
+2020-04-10,North Sumatra,59,8,4,47
+2020-04-10,Papua,38,3,2,33
+2020-04-10,Riau,13,1,0,12
+2020-04-10,Riau Islands,21,2,1,18
+2020-04-10,South Kalimantan,29,0,2,27
+2020-04-10,South Sulawesi,167,24,11,132
+2020-04-10,Southeast Sulawesi,15,1,0,14
+2020-04-10,South Sumatra,21,1,2,18
+2020-04-10,West Java,388,19,40,329
+2020-04-10,West Kalimantan,10,3,2,5
+2020-04-10,West Nusa Tenggara,25,2,0,23
+2020-04-10,West Papua,2,0,1,1
+2020-04-10,West Sulawesi,3,0,0,3
+2020-04-10,West Sumatra,31,6,3,22
+2020-04-10,Yogyakarta,41,6,7,28
+2020-04-10,Under investigation,35,0,0,35
+2020-04-09,Aceh,6,1,1,4
+2020-04-09,Bali,63,18,2,43
+2020-04-09,Bangka Belitung Islands,3,0,1,2
+2020-04-09,Banten,218,7,20,191
+2020-04-09,Bengkulu,2,0,1,1
+2020-04-09,Central Java,144,18,22,104
+2020-04-09,Central Kalimantan,20,6,0,14
+2020-04-09,Central Sulawesi,5,0,2,3
+2020-04-09,East Java,223,49,17,157
+2020-04-09,East Kalimantan,32,6,1,25
+2020-04-09,East Nusa Tenggara,1,0,0,1
+2020-04-09,Gorontalo,0,0,0,0
+2020-04-09,Jakarta,1706,82,142,1482
+2020-04-09,Jambi,2,0,0,2
+2020-04-09,Lampung,15,1,1,13
+2020-04-09,Maluku,3,1,0,2
+2020-04-09,North Maluku,2,1,0,1
+2020-04-09,North Kalimantan,16,0,0,16
+2020-04-09,North Sulawesi,8,1,1,6
+2020-04-09,North Sumatra,59,0,4,55
+2020-04-09,Papua,38,3,2,33
+2020-04-09,Riau,12,1,0,11
+2020-04-09,Riau Islands,22,2,1,19
+2020-04-09,South Kalimantan,22,0,2,20
+2020-04-09,South Sulawesi,138,23,8,107
+2020-04-09,Southeast Sulawesi,15,1,0,14
+2020-04-09,South Sumatra,17,1,2,14
+2020-04-09,West Java,376,19,40,317
+2020-04-09,West Kalimantan,10,3,2,5
+2020-04-09,West Nusa Tenggara,16,2,0,14
+2020-04-09,West Papua,2,0,1,1
+2020-04-09,West Sulawesi,2,0,0,2
+2020-04-09,West Sumatra,18,0,0,18
+2020-04-09,Yogyakarta,41,6,7,28
+2020-04-09,Under investigation,36,0,0,36
+2020-04-08,Aceh,6,0,1,5
+2020-04-08,Bali,49,18,2,29
+2020-04-08,Bangka Belitung Islands,2,0,1,1
+2020-04-08,Banten,212,7,18,187
+2020-04-08,Bengkulu,2,0,1,1
+2020-04-08,Central Java,140,14,22,104
+2020-04-08,Central Kalimantan,20,6,0,14
+2020-04-08,Central Sulawesi,5,0,2,3
+2020-04-08,East Java,196,46,16,134
+2020-04-08,East Kalimantan,32,4,1,27
+2020-04-08,East Nusa Tenggara,0,0,0,0
+2020-04-08,Gorontalo,0,0,0,0
+2020-04-08,Jakarta,1470,70,114,1286
+2020-04-08,Jambi,2,0,0,2
+2020-04-08,Lampung,15,0,1,14
+2020-04-08,Maluku,3,1,0,2
+2020-04-08,North Maluku,2,0,0,2
+2020-04-08,North Kalimantan,16,0,0,16
+2020-04-08,North Sulawesi,8,1,1,6
+2020-04-08,North Sumatra,59,0,4,55
+2020-04-08,Papua,38,3,2,33
+2020-04-08,Riau,12,1,0,11
+2020-04-08,Riau Islands,9,2,1,6
+2020-04-08,South Kalimantan,22,0,0,22
+2020-04-08,South Sulawesi,127,21,6,100
+2020-04-08,Southeast Sulawesi,11,1,0,10
+2020-04-08,South Sumatra,16,1,2,13
+2020-04-08,West Java,365,17,35,313
+2020-04-08,West Kalimantan,10,3,2,5
+2020-04-08,West Nusa Tenggara,10,0,0,10
+2020-04-08,West Papua,2,0,1,1
+2020-04-08,West Sulawesi,2,0,0,2
+2020-04-08,West Sumatra,18,0,0,18
+2020-04-08,Yogyakarta,41,6,7,28
+2020-04-08,Under investigation,34,0,0,34
+2020-04-07,Aceh,5,0,1,4
+2020-04-07,Bali,43,18,2,23
+2020-04-07,Bangka Belitung Islands,2,0,1,1
+2020-04-07,Banten,194,7,18,169
+2020-04-07,Bengkulu,2,0,1,1
+2020-04-07,Central Java,133,14,22,97
+2020-04-07,Central Kalimantan,20,6,0,14
+2020-04-07,Central Sulawesi,5,0,2,3
+2020-04-07,East Java,194,41,16,137
+2020-04-07,East Kalimantan,31,1,1,29
+2020-04-07,East Nusa Tenggara,0,0,0,0
+2020-04-07,Gorontalo,0,0,0,0
+2020-04-07,Jakarta,1369,65,106,1198
+2020-04-07,Jambi,2,0,0,2
+2020-04-07,Lampung,12,0,1,11
+2020-04-07,Maluku,1,1,0,0
+2020-04-07,North Maluku,1,0,0,1
+2020-04-07,North Kalimantan,15,0,0,15
+2020-04-07,North Sulawesi,8,1,0,7
+2020-04-07,North Sumatra,26,0,4,22
+2020-04-07,Papua,26,3,2,21
+2020-04-07,Riau,12,1,0,11
+2020-04-07,Riau Islands,9,2,1,6
+2020-04-07,South Kalimantan,18,0,0,18
+2020-04-07,South Sulawesi,127,21,6,100
+2020-04-07,Southeast Sulawesi,7,1,0,6
+2020-04-07,South Sumatra,16,1,2,13
+2020-04-07,West Java,343,17,29,297
+2020-04-07,West Kalimantan,10,3,2,5
+2020-04-07,West Nusa Tenggara,10,0,0,10
+2020-04-07,West Papua,2,0,1,1
+2020-04-07,West Sulawesi,2,0,0,2
+2020-04-07,West Sumatra,18,0,0,18
+2020-04-07,Yogyakarta,41,1,3,37
+2020-04-07,Under investigation,34,0,0,34
+2020-04-06,Aceh,5,0,1,4
+2020-04-06,Bali,43,18,2,23
+2020-04-06,Bangka Belitung Islands,2,0,1,1
+2020-04-06,Banten,187,7,17,163
+2020-04-06,Bengkulu,2,0,1,1
+2020-04-06,Central Java,132,14,22,96
+2020-04-06,Central Kalimantan,20,4,0,16
+2020-04-06,Central Sulawesi,4,0,0,4
+2020-04-06,East Java,189,38,14,137
+2020-04-06,East Kalimantan,31,1,1,29
+2020-04-06,East Nusa Tenggara,0,0,0,0
+2020-04-06,Gorontalo,0,0,0,0
+2020-04-06,Jakarta,1232,65,99,1068
+2020-04-06,Jambi,2,0,0,2
+2020-04-06,Lampung,12,0,1,11
+2020-04-06,Maluku,1,1,0,0
+2020-04-06,North Maluku,1,0,0,1
+2020-04-06,North Kalimantan,15,0,0,15
+2020-04-06,North Sulawesi,5,1,0,4
+2020-04-06,North Sumatra,26,0,4,22
+2020-04-06,Papua,26,3,2,21
+2020-04-06,Riau,12,1,0,11
+2020-04-06,Riau Islands,9,2,1,6
+2020-04-06,South Kalimantan,18,0,0,18
+2020-04-06,South Sulawesi,113,19,6,88
+2020-04-06,Southeast Sulawesi,7,1,0,6
+2020-04-06,South Sumatra,16,1,2,13
+2020-04-06,West Java,263,13,29,221
+2020-04-06,West Kalimantan,12,2,2,8
+2020-04-06,West Nusa Tenggara,10,0,0,10
+2020-04-06,West Papua,2,0,1,1
+2020-04-06,West Sulawesi,2,0,0,2
+2020-04-06,West Sumatra,18,0,0,18
+2020-04-06,Yogyakarta,40,1,3,36
+2020-04-06,Under investigation,34,0,0,34
+2020-04-05,Aceh,5,0,1,4
+2020-04-05,Bali,35,18,2,15
+2020-04-05,Bangka Belitung Islands,2,0,1,1
+2020-04-05,Banten,177,7,17,163
+2020-04-05,Bengkulu,2,0,1,1
+2020-04-05,Central Java,120,14,18,88
+2020-04-05,Central Kalimantan,11,4,0,7
+2020-04-05,Central Sulawesi,4,0,0,4
+2020-04-05,East Java,188,30,14,144
+2020-04-05,East Kalimantan,30,1,1,28
+2020-04-05,East Nusa Tenggara,0,0,0,0
+2020-04-05,Gorontalo,0,0,0,0
+2020-04-05,Jakarta,1124,56,95,973
+2020-04-05,Jambi,2,0,0,2
+2020-04-05,Lampung,11,0,1,10
+2020-04-05,Maluku,1,1,0,0
+2020-04-05,North Maluku,1,0,0,1
+2020-04-05,North Kalimantan,8,0,0,8
+2020-04-05,North Sulawesi,3,1,0,2
+2020-04-05,North Sumatra,25,0,4,21
+2020-04-05,Papua,26,3,1,22
+2020-04-05,Riau,11,1,0,10
+2020-04-05,Riau Islands,9,2,1,6
+2020-04-05,South Kalimantan,16,0,0,16
+2020-04-05,South Sulawesi,83,9,5,69
+2020-04-05,Southeast Sulawesi,6,1,0,5
+2020-04-05,South Sumatra,16,1,2,13
+2020-04-05,West Java,252,12,28,223
+2020-04-05,West Kalimantan,10,2,2,6
+2020-04-05,West Nusa Tenggara,7,0,0,7
+2020-04-05,West Papua,2,0,1,1
+2020-04-05,West Sulawesi,2,0,0,2
+2020-04-05,West Sumatra,8,0,0,8
+2020-04-05,Yogyakarta,34,1,3,30
+2020-04-05,Under investigation,42,0,0,42
+2020-04-04,Aceh,5,0,1,4
+2020-04-04,Bali,32,10,2,20
+2020-04-04,Bangka Belitung Islands,2,0,1,1
+2020-04-04,Banten,173,7,17,149
+2020-04-04,Bengkulu,2,0,1,1
+2020-04-04,Central Java,120,11,18,91
+2020-04-04,Central Kalimantan,11,2,0,9
+2020-04-04,Central Sulawesi,4,0,0,4
+2020-04-04,East Java,152,29,14,109
+2020-04-04,East Kalimantan,24,1,1,22
+2020-04-04,East Nusa Tenggara,0,0,0,0
+2020-04-04,Gorontalo,0,0,0,0
+2020-04-04,Jakarta,1028,56,89,883
+2020-04-04,Jambi,2,0,0,2
+2020-04-04,Lampung,11,0,1,10
+2020-04-04,Maluku,1,1,0,0
+2020-04-04,North Maluku,1,0,0,1
+2020-04-04,North Kalimantan,8,0,0,8
+2020-04-04,North Sulawesi,3,1,0,2
+2020-04-04,North Sumatra,25,0,3,22
+2020-04-04,Papua,18,3,1,14
+2020-04-04,Riau,10,1,0,9
+2020-04-04,Riau Islands,8,2,1,5
+2020-04-04,South Kalimantan,8,0,0,8
+2020-04-04,South Sulawesi,82,9,5,68
+2020-04-04,Southeast Sulawesi,5,1,0,4
+2020-04-04,South Sumatra,12,1,2,9
+2020-04-04,West Java,247,12,28,207
+2020-04-04,West Kalimantan,10,2,2,6
+2020-04-04,West Nusa Tenggara,7,0,0,7
+2020-04-04,West Papua,2,0,1,1
+2020-04-04,West Sulawesi,1,0,0,1
+2020-04-04,West Sumatra,8,0,0,8
+2020-04-04,Yogyakarta,33,1,3,29
+2020-04-04,Under investigation,37,0,0,37
+2020-04-03,Aceh,5,0,0,5
+2020-04-03,Bali,27,10,2,15
+2020-04-03,Bangka Belitung Islands,2,0,1,1
+2020-04-03,Banten,170,7,14,149
+2020-04-03,Bengkulu,2,0,1,1
+2020-04-03,Central Java,114,11,18,85
+2020-04-03,Central Kalimantan,12,2,0,10
+2020-04-03,Central Sulawesi,4,0,0,4
+2020-04-03,East Java,155,25,11,119
+2020-04-03,East Kalimantan,22,0,1,21
+2020-04-03,East Nusa Tenggara,0,0,0,0
+2020-04-03,Gorontalo,0,0,0,0
+2020-04-03,Jakarta,971,52,90,829
+2020-04-03,Jambi,2,0,0,2
+2020-04-03,Lampung,12,0,1,11
+2020-04-03,Maluku,1,1,0,0
+2020-04-03,North Maluku,1,0,0,1
+2020-04-03,North Kalimantan,8,0,0,8
+2020-04-03,North Sulawesi,3,1,0,2
+2020-04-03,North Sumatra,22,0,3,19
+2020-04-03,Papua,16,3,0,13
+2020-04-03,Riau,10,1,0,9
+2020-04-03,Riau Islands,8,0,1,7
+2020-04-03,South Kalimantan,8,0,0,8
+2020-04-03,South Sulawesi,82,4,5,73
+2020-04-03,Southeast Sulawesi,6,0,0,6
+2020-04-03,South Sumatra,12,0,2,10
+2020-04-03,West Java,225,12,25,188
+2020-04-03,West Kalimantan,10,2,2,6
+2020-04-03,West Nusa Tenggara,7,2,0,5
+2020-04-03,West Papua,2,0,1,1
+2020-04-03,West Sulawesi,1,0,0,1
+2020-04-03,West Sumatra,8,0,0,8
+2020-04-03,Yogyakarta,27,1,3,23
+2020-04-03,Under investigation,31,0,0,31
+2020-04-02,Aceh,5,0,0,5
+2020-04-02,Bali,25,10,2,13
+2020-04-02,Bangka Belitung Islands,2,0,1,1
+2020-04-02,Banten,164,7,14,143
+2020-04-02,Bengkulu,1,0,1,0
+2020-04-02,Central Java,104,7,7,90
+2020-04-02,Central Kalimantan,9,2,0,7
+2020-04-02,Central Sulawesi,2,0,0,2
+2020-04-02,East Java,104,22,11,71
+2020-04-02,East Kalimantan,21,0,1,20
+2020-04-02,East Nusa Tenggara,0,0,0,0
+2020-04-02,Gorontalo,0,0,0,0
+2020-04-02,Jakarta,897,52,90,755
+2020-04-02,Jambi,2,0,0,2
+2020-04-02,Lampung,8,0,1,7
+2020-04-02,Maluku,1,1,0,0
+2020-04-02,North Maluku,1,0,0,1
+2020-04-02,North Kalimantan,2,0,0,2
+2020-04-02,North Sulawesi,3,1,0,2
+2020-04-02,North Sumatra,22,0,3,19
+2020-04-02,Papua,10,2,0,8
+2020-04-02,Riau,7,1,0,6
+2020-04-02,Riau Islands,7,0,1,6
+2020-04-02,South Kalimantan,8,0,0,8
+2020-04-02,South Sulawesi,66,0,5,61
+2020-04-02,Southeast Sulawesi,3,0,0,3
+2020-04-02,South Sumatra,11,0,2,9
+2020-04-02,West Java,223,21,25,177
+2020-04-02,West Kalimantan,10,2,2,6
+2020-04-02,West Nusa Tenggara,6,0,0,6
+2020-04-02,West Papua,2,0,1,1
+2020-04-02,West Sulawesi,1,0,0,1
+2020-04-02,West Sumatra,8,0,0,8
+2020-04-02,Yogyakarta,27,1,3,23
+2020-04-02,Under investigation,28,0,0,28
+2020-04-01,Aceh,5,0,0,5
+2020-04-01,Bali,25,10,2,13
+2020-04-01,Bangka Belitung Islands,2,0,1,1
+2020-04-01,Banten,152,7,14,131
+2020-04-01,Bengkulu,1,0,1,0
+2020-04-01,Central Java,104,0,7,97
+2020-04-01,Central Kalimantan,9,0,0,9
+2020-04-01,Central Sulawesi,2,0,0,2
+2020-04-01,East Java,104,17,9,78
+2020-04-01,East Kalimantan,21,0,1,20
+2020-04-01,East Nusa Tenggara,0,0,0,0
+2020-04-01,Gorontalo,0,0,0,0
+2020-04-01,Jakarta,808,50,85,673
+2020-04-01,Jambi,2,0,0,2
+2020-04-01,Lampung,8,0,0,8
+2020-04-01,Maluku,1,1,0,0
+2020-04-01,North Maluku,1,0,0,1
+2020-04-01,North Kalimantan,2,0,0,2
+2020-04-01,North Sulawesi,3,1,0,2
+2020-04-01,North Sumatra,22,0,3,19
+2020-04-01,Papua,10,2,0,8
+2020-04-01,Riau,3,1,0,2
+2020-04-01,Riau Islands,7,0,1,6
+2020-04-01,South Kalimantan,8,0,0,8
+2020-04-01,South Sulawesi,66,0,5,61
+2020-04-01,Southeast Sulawesi,3,0,0,3
+2020-04-01,South Sumatra,5,0,2,3
+2020-04-01,West Java,220,11,21,188
+2020-04-01,West Kalimantan,10,2,2,6
+2020-04-01,West Nusa Tenggara,6,0,0,6
+2020-04-01,West Papua,2,0,1,1
+2020-04-01,West Sulawesi,1,0,0,1
+2020-04-01,West Sumatra,8,0,0,8
+2020-04-01,Yogyakarta,28,1,2,25
+2020-04-01,Under investigation,28,0,0,28
+2020-03-31,Aceh,5,0,0,5
+2020-03-31,Bali,19,0,2,17
+2020-03-31,Bangka Belitung Islands,2,0,0,2
+2020-03-31,Banten,142,2,4,136
+2020-03-31,Bengkulu,1,0,1,0
+2020-03-31,Central Java,93,0,7,86
+2020-03-31,Central Kalimantan,9,0,0,9
+2020-03-31,Central Sulawesi,3,0,0,3
+2020-03-31,East Java,93,16,8,69
+2020-03-31,East Kalimantan,20,0,0,20
+2020-03-31,East Nusa Tenggara,0,0,0,0
+2020-03-31,Gorontalo,0,0,0,0
+2020-03-31,Jakarta,747,48,83,616
+2020-03-31,Jambi,2,0,0,2
+2020-03-31,Lampung,8,0,0,8
+2020-03-31,Maluku,1,0,0,1
+2020-03-31,North Maluku,1,0,0,1
+2020-03-31,North Kalimantan,2,0,0,2
+2020-03-31,North Sulawesi,2,1,0,1
+2020-03-31,North Sumatra,19,0,1,18
+2020-03-31,Papua,10,0,0,10
+2020-03-31,Riau,3,1,0,2
+2020-03-31,Riau Islands,7,0,1,6
+2020-03-31,South Kalimantan,8,0,0,8
+2020-03-31,South Sulawesi,50,0,1,49
+2020-03-31,Southeast Sulawesi,3,0,0,3
+2020-03-31,South Sumatra,5,0,2,3
+2020-03-31,West Java,198,11,21,166
+2020-03-31,West Kalimantan,9,2,2,5
+2020-03-31,West Nusa Tenggara,4,0,0,4
+2020-03-31,West Papua,2,0,1,1
+2020-03-31,West Sulawesi,1,0,0,1
+2020-03-31,West Sumatra,8,0,0,8
+2020-03-31,Yogyakarta,23,1,2,20
+2020-03-31,Under investigation,31,0,0,31
+2020-03-30,Aceh,5,0,0,5
+2020-03-30,Bali,19,0,2,17
+2020-03-30,Bangka Belitung Islands,1,0,0,1
+2020-03-30,Banten,128,1,4,123
+2020-03-30,Bengkulu,0,0,0,0
+2020-03-30,Central Java,81,0,7,74
+2020-03-30,Central Kalimantan,7,0,0,7
+2020-03-30,Central Sulawesi,3,0,0,3
+2020-03-30,East Java,91,16,8,67
+2020-03-30,East Kalimantan,17,0,0,17
+2020-03-30,East Nusa Tenggara,0,0,0,0
+2020-03-30,Gorontalo,0,0,0,0
+2020-03-30,Jakarta,698,48,74,576
+2020-03-30,Jambi,2,0,0,2
+2020-03-30,Lampung,4,0,0,4
+2020-03-30,Maluku,1,0,0,1
+2020-03-30,North Maluku,1,0,0,1
+2020-03-30,North Kalimantan,2,0,0,2
+2020-03-30,North Sulawesi,2,1,0,1
+2020-03-30,North Sumatra,13,0,1,12
+2020-03-30,Papua,9,0,0,9
+2020-03-30,Riau,3,0,0,3
+2020-03-30,Riau Islands,6,0,1,5
+2020-03-30,South Kalimantan,5,0,0,5
+2020-03-30,South Sulawesi,50,0,1,49
+2020-03-30,Southeast Sulawesi,3,0,0,3
+2020-03-30,South Sumatra,2,0,2,0
+2020-03-30,West Java,180,8,20,152
+2020-03-30,West Kalimantan,7,0,0,7
+2020-03-30,West Nusa Tenggara,2,0,0,2
+2020-03-30,West Papua,2,0,0,2
+2020-03-30,West Sulawesi,1,0,0,1
+2020-03-30,West Sumatra,8,0,0,8
+2020-03-30,Yogyakarta,18,1,2,15
+2020-03-30,Under investigation,42,0,0,42
+2020-03-29,Aceh,5,0,0,5
+2020-03-29,Bali,10,0,2,8
+2020-03-29,Bangka Belitung Islands,0,0,0,0
+2020-03-29,Banten,106,1,4,101
+2020-03-29,Bengkulu,0,0,0,0
+2020-03-29,Central Java,63,0,7,56
+2020-03-29,Central Kalimantan,7,0,0,7
+2020-03-29,Central Sulawesi,2,0,0,2
+2020-03-29,East Java,90,11,7,72
+2020-03-29,East Kalimantan,17,0,0,17
+2020-03-29,East Nusa Tenggara,0,0,0,0
+2020-03-29,Gorontalo,0,0,0,0
+2020-03-29,Jakarta,675,45,68,562
+2020-03-29,Jambi,1,0,0,1
+2020-03-29,Lampung,4,0,0,4
+2020-03-29,Maluku,1,0,0,1
+2020-03-29,North Maluku,1,0,0,1
+2020-03-29,North Kalimantan,2,0,0,2
+2020-03-29,North Sulawesi,2,0,0,2
+2020-03-29,North Sumatra,8,0,1,7
+2020-03-29,Papua,9,0,0,9
+2020-03-29,Riau,2,1,0,1
+2020-03-29,Riau Islands,5,0,1,4
+2020-03-29,South Kalimantan,1,0,0,1
+2020-03-29,South Sulawesi,47,0,1,46
+2020-03-29,Southeast Sulawesi,3,0,0,3
+2020-03-29,South Sumatra,2,0,0,2
+2020-03-29,West Java,149,6,19,124
+2020-03-29,West Kalimantan,8,0,0,8
+2020-03-29,West Nusa Tenggara,2,0,0,2
+2020-03-29,West Papua,2,0,0,2
+2020-03-29,West Sulawesi,1,0,0,1
+2020-03-29,West Sumatra,5,0,0,5
+2020-03-29,Yogyakarta,22,1,2,19
+2020-03-29,Under investigation,33,0,0,33
+2020-03-28,Aceh,4,0,0,4
+2020-03-28,Bali,9,0,2,7
+2020-03-28,Bangka Belitung Islands,0,0,0,0
+2020-03-28,Banten,103,1,4,98
+2020-03-28,Bengkulu,0,0,0,0
+2020-03-28,Central Java,55,0,7,48
+2020-03-28,Central Kalimantan,7,0,0,7
+2020-03-28,Central Sulawesi,2,0,0,2
+2020-03-28,East Java,77,8,4,65
+2020-03-28,East Kalimantan,17,0,0,17
+2020-03-28,East Nusa Tenggara,0,0,0,0
+2020-03-28,Gorontalo,0,0,0,0
+2020-03-28,Jakarta,627,43,62,525
+2020-03-28,Jambi,1,0,0,1
+2020-03-28,Lampung,4,0,0,4
+2020-03-28,Maluku,1,0,0,1
+2020-03-28,North Maluku,1,0,0,1
+2020-03-28,North Kalimantan,2,0,0,2
+2020-03-28,North Sulawesi,2,0,0,2
+2020-03-28,North Sumatra,8,0,1,7
+2020-03-28,Papua,7,0,0,7
+2020-03-28,Riau,1,0,0,1
+2020-03-28,Riau Islands,5,0,1,4
+2020-03-28,South Kalimantan,1,0,0,1
+2020-03-28,South Sulawesi,33,0,1,32
+2020-03-28,Southeast Sulawesi,3,0,0,3
+2020-03-28,South Sumatra,2,0,1,0
+2020-03-28,West Java,119,6,17,96
+2020-03-28,West Kalimantan,3,0,0,3
+2020-03-28,West Nusa Tenggara,2,0,0,2
+2020-03-28,West Papua,2,0,0,2
+2020-03-28,West Sulawesi,0,0,0,0
+2020-03-28,West Sumatra,5,0,0,5
+2020-03-28,Yogyakarta,22,1,2,19
+2020-03-28,Under investigation,30,0,0,30
+2020-03-27,Bali,9,0,2,7
+2020-03-27,Bangka Belitung Islands,0,0,0,0
+2020-03-27,Banten,84,1,4,79
+2020-03-27,Bengkulu,0,0,0,0
+2020-03-27,Central Java,43,0,6,37
+2020-03-27,Central Kalimantan,6,0,0,6
+2020-03-27,Central Sulawesi,1,0,0,1
+2020-03-27,East Java,66,8,4,54
+2020-03-27,East Kalimantan,11,0,0,11
+2020-03-27,East Nusa Tenggara,0,0,0,0
+2020-03-27,Gorontalo,0,0,0,0
+2020-03-27,Jakarta,598,31,51,516
+2020-03-27,Jambi,1,0,0,1
+2020-03-27,Lampung,4,0,0,4
+2020-03-27,Maluku,1,0,0,1
+2020-03-27,North Maluku,1,0,0,1
+2020-03-27,North Kalimantan,2,0,0,2
+2020-03-27,North Sulawesi,2,0,0,2
+2020-03-27,North Sumatra,8,0,1,7
+2020-03-27,Papua,7,0,0,7
+2020-03-27,Riau,1,0,0,1
+2020-03-27,Riau Islands,5,0,1,4
+2020-03-27,South Kalimantan,1,0,0,1
+2020-03-27,South Sulawesi,29,0,1,28
+2020-03-27,Southeast Sulawesi,3,0,0,3
+2020-03-27,South Sumatra,1,0,1,0
+2020-03-27,West Java,98,5,14,79
+2020-03-27,West Kalimantan,4,0,0,4
+2020-03-27,West Nusa Tenggara,4,0,0,4
+2020-03-27,West Papua,2,0,0,2
+2020-03-27,West Sulawesi,0,0,0,0
+2020-03-27,West Sumatra,5,0,0,5
+2020-03-27,Yogyakarta,22,1,2,19
+2020-03-27,Under investigation,25,0,0,25
+2020-03-26,Bali,9,0,2,7
+2020-03-26,Banten,67,1,4,62
+2020-03-26,Central Java,40,0,6,34
+2020-03-26,Central Kalimantan,6,0,0,6
+2020-03-26,Central Sulawesi,1,0,0,1
+2020-03-26,East Java,59,3,3,53
+2020-03-26,East Kalimantan,11,0,0,11
+2020-03-26,Jakarta,515,25,46,444
+2020-03-26,Jambi,1,0,0,1
+2020-03-26,Lampung,3,0,0,3
+2020-03-26,Maluku,1,0,0,1
+2020-03-26,North Maluku,1,0,0,1
+2020-03-26,North Sulawesi,2,0,0,2
+2020-03-26,North Sumatra,8,0,1,7
+2020-03-26,Papua,7,0,0,7
+2020-03-26,Riau,2,0,0,2
+2020-03-26,Riau Islands,5,0,1,4
+2020-03-26,South Kalimantan,1,0,0,1
+2020-03-26,South Sulawesi,27,0,3,24
+2020-03-26,Southeast Sulawesi,3,0,0,3
+2020-03-26,South Sumatra,1,0,0,1
+2020-03-26,West Java,78,5,11,62
+2020-03-26,West Kalimantan,4,0,0,4
+2020-03-26,West Nusa Tenggara,2,0,0,2
+2020-03-26,West Sumatra,3,0,0,3
+2020-03-26,Yogyakarta,16,1,2,13
+2020-03-26,Under investigation,19,0,0,19
+2020-03-25,Banten,67,1,4,62
+2020-03-25,Central Java,38,0,4,34
+2020-03-25,Central Kalimantan,3,0,0,3
+2020-03-25,East Java,51,1,1,49
+2020-03-25,East Kalimantan,11,0,0,11
+2020-03-25,Jakarta,463,23,31,409
+2020-03-25,Jambi,1,0,0,1
+2020-03-25,Lampung,1,0,0,1
+2020-03-25,Maluku,1,0,0,1
+2020-03-25,North Maluku,1,0,0,1
+2020-03-25,North Sulawesi,2,0,0,2
+2020-03-25,North Sumatra,7,0,1,6
+2020-03-25,Papua,3,0,0,3
+2020-03-25,Riau,2,0,0,2
+2020-03-25,Riau Islands,5,0,1,4
+2020-03-25,South Kalimantan,2,0,0,2
+2020-03-25,South Sulawesi,13,0,1,12
+2020-03-25,Southeast Sulawesi,3,0,0,3
+2020-03-25,South Sumatra,1,0,0,1
+2020-03-25,West Java,73,5,10,58
+2020-03-25,West Kalimantan,3,0,0,3
+2020-03-25,West Nusa Tenggara,2,0,0,2
+2020-03-25,Yogyakarta,17,1,2,14
+2020-03-25,Under investigation,11,0,0,11
+2020-03-24,Banten,65,1,4,60
+2020-03-24,Central Java,19,0,3,16
+2020-03-24,Central Kalimantan,3,0,0,3
+2020-03-24,East Java,51,0,1,50
+2020-03-24,East Kalimantan,11,0,0,11
+2020-03-24,Jakarta,424,23,31,370
+2020-03-24,Jambi,1,0,0,1
+2020-03-24,Lampung,1,0,0,1
+2020-03-24,Maluku,1,0,0,1
+2020-03-24,North Maluku,1,0,0,1
+2020-03-24,North Sulawesi,1,0,0,1
+2020-03-24,North Sumatra,7,0,1,6
+2020-03-24,Papua,3,0,0,3
+2020-03-24,Riau,1,0,0,1
+2020-03-24,Riau Islands,5,0,1,4
+2020-03-24,South Kalimantan,3,0,0,3
+2020-03-24,South Sulawesi,4,0,1,3
+2020-03-24,Southeast Sulawesi,3,0,0,3
+2020-03-24,South Sumatra,1,0,0,1
+2020-03-24,West Java,60,5,10,45
+2020-03-24,West Kalimantan,3,0,0,3
+2020-03-24,West Nusa Tenggara,1,0,0,1
+2020-03-24,Yogyakarta,6,1,1,4
+2020-03-24,Under investigation,5,0,0,5
+2020-03-23,Banten,56,1,3,52
+2020-03-23,Central Java,15,0,3,12
+2020-03-23,Central Kalimantan,2,0,0,2
+2020-03-23,East Java,41,0,1,40
+2020-03-23,East Kalimantan,11,0,0,11
+2020-03-23,Jakarta,353,23,29,301
+2020-03-23,Jambi,1,0,0,1
+2020-03-23,Lampung,1,0,0,1
+2020-03-23,Maluku,1,0,0,1
+2020-03-23,North Maluku,1,0,0,1
+2020-03-23,North Sulawesi,1,0,0,1
+2020-03-23,North Sumatra,2,0,1,1
+2020-03-23,Papua,2,0,0,2
+2020-03-23,Riau,1,0,0,1
+2020-03-23,Riau Islands,5,0,0,5
+2020-03-23,South Kalimantan,1,0,0,1
+2020-03-23,South Sulawesi,2,0,1,1
+2020-03-23,Southeast Sulawesi,3,0,0,3
+2020-03-23,West Java,59,5,9,45
+2020-03-23,West Kalimantan,2,0,0,2
+2020-03-23,Yogyakarta,5,1,0,4
+2020-03-23,Under investigation,8,0,0,8
+2020-03-22,Banten,47,1,3,43
+2020-03-22,Central Java,15,0,3,12
+2020-03-22,Central Kalimantan,2,0,0,2
+2020-03-22,East Java,41,0,1,40
+2020-03-22,East Kalimantan,9,0,0,9
+2020-03-22,Jakarta,307,22,29,256
+2020-03-22,Lampung,1,0,0,1
+2020-03-22,Maluku,1,0,0,1
+2020-03-22,North Sulawesi,1,0,0,1
+2020-03-22,North Sumatra,2,0,1,1
+2020-03-22,Papua,2,0,0,2
+2020-03-22,Riau,1,0,0,1
+2020-03-22,Riau Islands,4,0,0,4
+2020-03-22,South Kalimantan,1,0,0,1
+2020-03-22,South Sulawesi,2,0,0,2
+2020-03-22,Southeast Sulawesi,3,0,0,3
+2020-03-22,West Java,59,5,9,45
+2020-03-22,West Kalimantan,2,0,0,2
+2020-03-22,Yogyakarta,5,1,0,4
+2020-03-22,Under investigation,6,0,0,6
+2020-03-21,Banten,43,1,2,40
+2020-03-21,Central Kalimantan,2,0,0,2
+2020-03-21,Central Java,14,0,3,11
+2020-03-21,East Java,26,1,1,24
+2020-03-21,East Kalimantan,10,0,0,10
+2020-03-21,Jakarta,268,17,23,228
+2020-03-21,Lampung,1,0,0,1
+2020-03-21,North Sulawesi,1,0,0,1
+2020-03-21,North Sumatra,2,0,1,1
+2020-03-21,Riau,1,0,0,1
+2020-03-21,Riau Islands,4,0,0,4
+2020-03-21,South Sulawesi,4,0,0,4
+2020-03-21,Southeast Sulawesi,3,0,0,3
+2020-03-21,West Java,55,1,7,47
+2020-03-21,West Kalimantan,2,0,0,2
+2020-03-21,Yogyakarta,5,0,0,5
+2020-03-21,Under Investigation,5,0,0,5
+2020-03-20,Banten,37,1,1,35
+2020-03-20,Central Kalimantan,2,0,0,2
+2020-03-20,Central Java,12,0,3,9
+2020-03-20,East Java,15,1,1,13
+2020-03-20,East Kalimantan,10,0,0,10
+2020-03-20,Jakarta,215,14,18,183
+2020-03-20,Lampung,1,0,0,1
+2020-03-20,North Sulawesi,1,0,0,1
+2020-03-20,North Sumatra,2,0,1,1
+2020-03-20,Riau,1,0,0,1
+2020-03-20,Riau Islands,4,0,0,4
+2020-03-20,South Sulawesi,2,0,0,2
+2020-03-20,Southeast Sulawesi,3,0,0,3
+2020-03-20,West Java,41,1,7,33
+2020-03-20,West Kalimantan,2,0,0,2
+2020-03-20,Yogyakarta,4,0,0,4
+2020-03-20,Under Investigation,13,0,0,13
+2020-03-19,Banten,27,1,1,25
+2020-03-19,Central Java,12,0,3,9
+2020-03-19,East Java,9,0,1,8
+2020-03-19,East Kalimantan,3,0,0,3
+2020-03-19,Jakarta,210,13,17,180
+2020-03-19,Lampung,1,0,0,1
+2020-03-19,North Sulawesi,1,0,0,1
+2020-03-19,North Sumatra,2,0,1,1
+2020-03-19,Riau,1,0,0,1
+2020-03-19,Riau Islands,3,0,0,3
+2020-03-19,South Sulawesi,2,0,0,2
+2020-03-19,Southeast Sulawesi,3,0,0,3
+2020-03-19,West Java,26,1,1,24
+2020-03-19,West Kalimantan,2,0,0,2
+2020-03-19,Yogyakarta,5,0,0,5
