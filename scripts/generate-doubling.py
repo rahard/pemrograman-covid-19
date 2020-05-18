@@ -10,7 +10,10 @@ from glob import glob
 f = glob("../[0-9][0-9][0-9][0-9][0-9][0-9]")
 dir = sorted(f, reverse=True)[0]
 # print(dir)
-tanggal = dir[4:6] + "/" + dir[2:4] + "/20" + dir[0:2]
+# karena format dir adalah "../200515" - sesuaikan dengan lokasi direktori
+# maka ambil tanggal dari nama direktori tersebut
+tanggal = dir[7:9] + "/" + dir[5:7] + "/20" + dir[3:5]
+#print(tanggal)
 
 # proses "csv_rekap_doubling*"
 # ambil nama file
@@ -42,7 +45,7 @@ ax = df.plot(x='Datetime', y='West Java')
 #ax.set_xticklabels(df.Tanggal,rotation=90)
 plt.grid(True)
 
-judul = "Doubling di Jawa Barat"
+judul = "Doubling di Jawa Barat sd. " + tanggal
 plt.title(judul)
 plt.xlabel('Tanggal')
 plt.ylabel("Hari")

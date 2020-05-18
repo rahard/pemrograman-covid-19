@@ -10,7 +10,10 @@ from glob import glob
 f = glob("../[0-9][0-9][0-9][0-9][0-9][0-9]")
 dir = sorted(f, reverse=True)[0]
 # print(dir)
-tanggal = dir[4:6] + "/" + dir[2:4] + "/20" + dir[0:2]
+# karena format dir adalah "../200515" - sesuaikan dengan lokasi direktori
+# maka ambil tanggal dari nama direktori tersebut
+tanggal = dir[7:9] + "/" + dir[5:7] + "/20" + dir[3:5]
+#print(tanggal)
 
 # ambil nama file
 frekap = glob(dir + "/" + "csv_tabel_sembuh_*")[0]
@@ -36,7 +39,7 @@ ax = df.plot(x='Datetime', y='WestJava')
 
 plt.grid(True)
 
-judul = "Sembuh di Jawa Barat sd. " + tanggal
+judul = "Pasien Sembuh di Jawa Barat sd. " + tanggal
 plt.title(judul)
 plt.xlabel('Tanggal')
 plt.ylabel("Jumlah")
