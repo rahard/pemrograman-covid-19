@@ -22,11 +22,6 @@ grekap = glob(dir + "/" + "csv_tabel_confirmed_cases_*")[0]
 hrekap = glob(dir + "/" + "csv_tabel_meninggal_*")[0]
 irekap = glob(dir + "/" + "csv_tabel_sembuh_*")[0]
 
-tanggal = "19/5/2020"
-#frekap = ("../200519/csv_tabel_aktif_200519.csv")
-#grekap = ("../200519/csv_tabel_confirmed_cases_200519.csv")
-#hrekap = ("../200519/csv_tabel_meninggal_200519.csv")
-#irekap = ("../200519/csv_tabel_sembuh_200519.csv")
 
 # plot
 import pandas as pd
@@ -48,7 +43,7 @@ dg['Datetime'] = pd.to_datetime(dg['Tanggal'])
 dh['Datetime'] = pd.to_datetime(dh['Tanggal'])
 di['Datetime'] = pd.to_datetime(di['Tanggal'])
 #print(df.Datetime)
-# add dg to df
+# add dg,dh,di to df
 df['Confirmed'] = dg['WestJava']
 df['Meninggal'] = dh['WestJava']
 df['Sembuh'] = di['WestJava']
