@@ -7,3 +7,4 @@ python3 generate-doubling.py
 python3 generate-meninggal.py
 python3 generate-rate.py
 python3 generate-sembuh.py
+python3 gabung.py
